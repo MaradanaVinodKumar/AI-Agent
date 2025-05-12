@@ -1,0 +1,1387 @@
+[
+    {
+        "label": "create_async_engine",
+        "importPath": "sqlalchemy.ext.asyncio",
+        "description": "sqlalchemy.ext.asyncio",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.ext.asyncio",
+        "documentation": {}
+    },
+    {
+        "label": "AsyncSession",
+        "importPath": "sqlalchemy.ext.asyncio",
+        "description": "sqlalchemy.ext.asyncio",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.ext.asyncio",
+        "documentation": {}
+    },
+    {
+        "label": "sessionmaker",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "declarative_base",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "Request",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Depends",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Query",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Body",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Header",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Cookie",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Form",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "FastAPI",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "JSONResponse",
+        "importPath": "fastapi.responses",
+        "description": "fastapi.responses",
+        "isExtraImport": true,
+        "detail": "fastapi.responses",
+        "documentation": {}
+    },
+    {
+        "label": "JSONResponse",
+        "importPath": "fastapi.responses",
+        "description": "fastapi.responses",
+        "isExtraImport": true,
+        "detail": "fastapi.responses",
+        "documentation": {}
+    },
+    {
+        "label": "JSONResponse",
+        "importPath": "fastapi.responses",
+        "description": "fastapi.responses",
+        "isExtraImport": true,
+        "detail": "fastapi.responses",
+        "documentation": {}
+    },
+    {
+        "label": "RequestValidationError",
+        "importPath": "fastapi.exceptions",
+        "description": "fastapi.exceptions",
+        "isExtraImport": true,
+        "detail": "fastapi.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "RequestValidationError",
+        "importPath": "fastapi.exceptions",
+        "description": "fastapi.exceptions",
+        "isExtraImport": true,
+        "detail": "fastapi.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "HTTP_400_BAD_REQUEST",
+        "importPath": "starlette.status",
+        "description": "starlette.status",
+        "isExtraImport": true,
+        "detail": "starlette.status",
+        "documentation": {}
+    },
+    {
+        "label": "HTTP_404_NOT_FOUND",
+        "importPath": "starlette.status",
+        "description": "starlette.status",
+        "isExtraImport": true,
+        "detail": "starlette.status",
+        "documentation": {}
+    },
+    {
+        "label": "HTTP_500_INTERNAL_SERVER_ERROR",
+        "importPath": "starlette.status",
+        "description": "starlette.status",
+        "isExtraImport": true,
+        "detail": "starlette.status",
+        "documentation": {}
+    },
+    {
+        "label": "HTTP_401_UNAUTHORIZED",
+        "importPath": "starlette.status",
+        "description": "starlette.status",
+        "isExtraImport": true,
+        "detail": "starlette.status",
+        "documentation": {}
+    },
+    {
+        "label": "BadRequestError",
+        "importPath": "Agent.exceptions.exceptions",
+        "description": "Agent.exceptions.exceptions",
+        "isExtraImport": true,
+        "detail": "Agent.exceptions.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "InternalServerError",
+        "importPath": "Agent.exceptions.exceptions",
+        "description": "Agent.exceptions.exceptions",
+        "isExtraImport": true,
+        "detail": "Agent.exceptions.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "NotFoundError",
+        "importPath": "Agent.exceptions.exceptions",
+        "description": "Agent.exceptions.exceptions",
+        "isExtraImport": true,
+        "detail": "Agent.exceptions.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "UnauthorizedError",
+        "importPath": "Agent.exceptions.exceptions",
+        "description": "Agent.exceptions.exceptions",
+        "isExtraImport": true,
+        "detail": "Agent.exceptions.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "UnauthorizedError",
+        "importPath": "Agent.exceptions.exceptions",
+        "description": "Agent.exceptions.exceptions",
+        "isExtraImport": true,
+        "detail": "Agent.exceptions.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "NotFoundError",
+        "importPath": "Agent.exceptions.exceptions",
+        "description": "Agent.exceptions.exceptions",
+        "isExtraImport": true,
+        "detail": "Agent.exceptions.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "BadRequestError",
+        "importPath": "Agent.exceptions.exceptions",
+        "description": "Agent.exceptions.exceptions",
+        "isExtraImport": true,
+        "detail": "Agent.exceptions.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "InternalServerError",
+        "importPath": "Agent.exceptions.exceptions",
+        "description": "Agent.exceptions.exceptions",
+        "isExtraImport": true,
+        "detail": "Agent.exceptions.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "NotFoundError",
+        "importPath": "Agent.exceptions.exceptions",
+        "description": "Agent.exceptions.exceptions",
+        "isExtraImport": true,
+        "detail": "Agent.exceptions.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "UnauthorizedError",
+        "importPath": "Agent.exceptions.exceptions",
+        "description": "Agent.exceptions.exceptions",
+        "isExtraImport": true,
+        "detail": "Agent.exceptions.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "BaseHTTPMiddleware",
+        "importPath": "starlette.middleware.base",
+        "description": "starlette.middleware.base",
+        "isExtraImport": true,
+        "detail": "starlette.middleware.base",
+        "documentation": {}
+    },
+    {
+        "label": "Request",
+        "importPath": "starlette.requests",
+        "description": "starlette.requests",
+        "isExtraImport": true,
+        "detail": "starlette.requests",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "AgentRequest",
+        "importPath": "Agent.models.models",
+        "description": "Agent.models.models",
+        "isExtraImport": true,
+        "detail": "Agent.models.models",
+        "documentation": {}
+    },
+    {
+        "label": "AgentRequest",
+        "importPath": "Agent.models.models",
+        "description": "Agent.models.models",
+        "isExtraImport": true,
+        "detail": "Agent.models.models",
+        "documentation": {}
+    },
+    {
+        "label": "AgentRequest",
+        "importPath": "Agent.models.models",
+        "description": "Agent.models.models",
+        "isExtraImport": true,
+        "detail": "Agent.models.models",
+        "documentation": {}
+    },
+    {
+        "label": "AgentRequest",
+        "importPath": "Agent.models.models",
+        "description": "Agent.models.models",
+        "isExtraImport": true,
+        "detail": "Agent.models.models",
+        "documentation": {}
+    },
+    {
+        "label": "process_Agent_Request",
+        "importPath": "Agent.services.genai_sevice",
+        "description": "Agent.services.genai_sevice",
+        "isExtraImport": true,
+        "detail": "Agent.services.genai_sevice",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "UserService",
+        "importPath": "Agent.services.UserService.user_service",
+        "description": "Agent.services.UserService.user_service",
+        "isExtraImport": true,
+        "detail": "Agent.services.UserService.user_service",
+        "documentation": {}
+    },
+    {
+        "label": "Column",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Integer",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "String",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Base",
+        "importPath": "Agent.database.database",
+        "description": "Agent.database.database",
+        "isExtraImport": true,
+        "detail": "Agent.database.database",
+        "documentation": {}
+    },
+    {
+        "label": "SessionLocal",
+        "importPath": "Agent.database.database",
+        "description": "Agent.database.database",
+        "isExtraImport": true,
+        "detail": "Agent.database.database",
+        "documentation": {}
+    },
+    {
+        "label": "ABC",
+        "importPath": "abc",
+        "description": "abc",
+        "isExtraImport": true,
+        "detail": "abc",
+        "documentation": {}
+    },
+    {
+        "label": "abstractmethod",
+        "importPath": "abc",
+        "description": "abc",
+        "isExtraImport": true,
+        "detail": "abc",
+        "documentation": {}
+    },
+    {
+        "label": "ABC",
+        "importPath": "abc",
+        "description": "abc",
+        "isExtraImport": true,
+        "detail": "abc",
+        "documentation": {}
+    },
+    {
+        "label": "abstractmethod",
+        "importPath": "abc",
+        "description": "abc",
+        "isExtraImport": true,
+        "detail": "abc",
+        "documentation": {}
+    },
+    {
+        "label": "IUserService",
+        "importPath": "Agent.services.UserService.i_user_service",
+        "description": "Agent.services.UserService.i_user_service",
+        "isExtraImport": true,
+        "detail": "Agent.services.UserService.i_user_service",
+        "documentation": {}
+    },
+    {
+        "label": "genai",
+        "importPath": "google",
+        "description": "google",
+        "isExtraImport": true,
+        "detail": "google",
+        "documentation": {}
+    },
+    {
+        "label": "genai",
+        "importPath": "google",
+        "description": "google",
+        "isExtraImport": true,
+        "detail": "google",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "Agent.schemas.schemas",
+        "description": "Agent.schemas.schemas",
+        "isExtraImport": true,
+        "detail": "Agent.schemas.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "agent",
+        "importPath": "Agent.routes",
+        "description": "Agent.routes",
+        "isExtraImport": true,
+        "detail": "Agent.routes",
+        "documentation": {}
+    },
+    {
+        "label": "not_found_exception_handler",
+        "importPath": "Agent.exceptions.error_handlers",
+        "description": "Agent.exceptions.error_handlers",
+        "isExtraImport": true,
+        "detail": "Agent.exceptions.error_handlers",
+        "documentation": {}
+    },
+    {
+        "label": "bad_request_exception_handler",
+        "importPath": "Agent.exceptions.error_handlers",
+        "description": "Agent.exceptions.error_handlers",
+        "isExtraImport": true,
+        "detail": "Agent.exceptions.error_handlers",
+        "documentation": {}
+    },
+    {
+        "label": "internal_server_error_handler",
+        "importPath": "Agent.exceptions.error_handlers",
+        "description": "Agent.exceptions.error_handlers",
+        "isExtraImport": true,
+        "detail": "Agent.exceptions.error_handlers",
+        "documentation": {}
+    },
+    {
+        "label": "validation_exception_handler",
+        "importPath": "Agent.exceptions.error_handlers",
+        "description": "Agent.exceptions.error_handlers",
+        "isExtraImport": true,
+        "detail": "Agent.exceptions.error_handlers",
+        "documentation": {}
+    },
+    {
+        "label": "generic_exception_handler",
+        "importPath": "Agent.exceptions.error_handlers",
+        "description": "Agent.exceptions.error_handlers",
+        "isExtraImport": true,
+        "detail": "Agent.exceptions.error_handlers",
+        "documentation": {}
+    },
+    {
+        "label": "unauthorized_exception_handler",
+        "importPath": "Agent.exceptions.error_handlers",
+        "description": "Agent.exceptions.error_handlers",
+        "isExtraImport": true,
+        "detail": "Agent.exceptions.error_handlers",
+        "documentation": {}
+    },
+    {
+        "label": "AuthMiddleware",
+        "importPath": "Agent.middleware.auth_middleware",
+        "description": "Agent.middleware.auth_middleware",
+        "isExtraImport": true,
+        "detail": "Agent.middleware.auth_middleware",
+        "documentation": {}
+    },
+    {
+        "label": "random",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "random",
+        "description": "random",
+        "detail": "random",
+        "documentation": {}
+    },
+    {
+        "label": "math",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "math",
+        "description": "math",
+        "detail": "math",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "time",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "time",
+        "description": "time",
+        "detail": "time",
+        "documentation": {}
+    },
+    {
+        "label": "re",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "re",
+        "description": "re",
+        "detail": "re",
+        "documentation": {}
+    },
+    {
+        "label": "json",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "json",
+        "description": "json",
+        "detail": "json",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "datetime",
+        "description": "datetime",
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "requests",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "requests",
+        "description": "requests",
+        "detail": "requests",
+        "documentation": {}
+    },
+    {
+        "label": "threading",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "threading",
+        "description": "threading",
+        "detail": "threading",
+        "documentation": {}
+    },
+    {
+        "label": "multiprocessing",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "multiprocessing",
+        "description": "multiprocessing",
+        "detail": "multiprocessing",
+        "documentation": {}
+    },
+    {
+        "label": "DATABASE_URL",
+        "kind": 5,
+        "importPath": "Agent.database.database",
+        "description": "Agent.database.database",
+        "peekOfCode": "DATABASE_URL = \"postgresql+asyncpg://user:password@localhost/dbname\"\nengine = create_async_engine(DATABASE_URL, echo=True)\nSessionLocal = sessionmaker(bind=engine, class_=AsyncSession, expire_on_commit=False)\nBase = declarative_base()",
+        "detail": "Agent.database.database",
+        "documentation": {}
+    },
+    {
+        "label": "engine",
+        "kind": 5,
+        "importPath": "Agent.database.database",
+        "description": "Agent.database.database",
+        "peekOfCode": "engine = create_async_engine(DATABASE_URL, echo=True)\nSessionLocal = sessionmaker(bind=engine, class_=AsyncSession, expire_on_commit=False)\nBase = declarative_base()",
+        "detail": "Agent.database.database",
+        "documentation": {}
+    },
+    {
+        "label": "SessionLocal",
+        "kind": 5,
+        "importPath": "Agent.database.database",
+        "description": "Agent.database.database",
+        "peekOfCode": "SessionLocal = sessionmaker(bind=engine, class_=AsyncSession, expire_on_commit=False)\nBase = declarative_base()",
+        "detail": "Agent.database.database",
+        "documentation": {}
+    },
+    {
+        "label": "Base",
+        "kind": 5,
+        "importPath": "Agent.database.database",
+        "description": "Agent.database.database",
+        "peekOfCode": "Base = declarative_base()",
+        "detail": "Agent.database.database",
+        "documentation": {}
+    },
+    {
+        "label": "NotFoundError",
+        "kind": 6,
+        "importPath": "Agent.exceptions.exceptions",
+        "description": "Agent.exceptions.exceptions",
+        "peekOfCode": "class NotFoundError(Exception):\n    def __init__(self, name: str):\n        self.name = name\nclass BadRequestError(Exception):\n    def __init__(self, message: str):\n        self.message = message\nclass InternalServerError(Exception):\n    def __init__(self, message: str):\n        self.message = message\nclass UnauthorizedError(Exception):",
+        "detail": "Agent.exceptions.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "BadRequestError",
+        "kind": 6,
+        "importPath": "Agent.exceptions.exceptions",
+        "description": "Agent.exceptions.exceptions",
+        "peekOfCode": "class BadRequestError(Exception):\n    def __init__(self, message: str):\n        self.message = message\nclass InternalServerError(Exception):\n    def __init__(self, message: str):\n        self.message = message\nclass UnauthorizedError(Exception):\n    def __init__(self, message: str):\n        self.message = message",
+        "detail": "Agent.exceptions.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "InternalServerError",
+        "kind": 6,
+        "importPath": "Agent.exceptions.exceptions",
+        "description": "Agent.exceptions.exceptions",
+        "peekOfCode": "class InternalServerError(Exception):\n    def __init__(self, message: str):\n        self.message = message\nclass UnauthorizedError(Exception):\n    def __init__(self, message: str):\n        self.message = message",
+        "detail": "Agent.exceptions.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "UnauthorizedError",
+        "kind": 6,
+        "importPath": "Agent.exceptions.exceptions",
+        "description": "Agent.exceptions.exceptions",
+        "peekOfCode": "class UnauthorizedError(Exception):\n    def __init__(self, message: str):\n        self.message = message",
+        "detail": "Agent.exceptions.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "AuthMiddleware",
+        "kind": 6,
+        "importPath": "Agent.middleware.auth_middleware",
+        "description": "Agent.middleware.auth_middleware",
+        "peekOfCode": "class AuthMiddleware(BaseHTTPMiddleware):\n    async def dispatch(self, request: Request, call_next):\n        # auth_header = request.headers.get(\"Authorization\")\n        # if not auth_header or not auth_header.startswith(\"Bearer \"):\n        raise UnauthorizedError(\"\")\n            # raise UnauthorizedError(\"Missing or invalid Authorization header\")\n        # token = auth_header.removeprefix(\"Bearer \").strip()\n        # if token != \"your-valid-token\":\n        #     raise UnauthorizedError(\"Invalid token\")\n        return await call_next(request)",
+        "detail": "Agent.middleware.auth_middleware",
+        "documentation": {}
+    },
+    {
+        "label": "VALID_TOKENS",
+        "kind": 5,
+        "importPath": "Agent.middleware.auth_middleware",
+        "description": "Agent.middleware.auth_middleware",
+        "peekOfCode": "VALID_TOKENS = {\"your-valid-token-here\"} \nclass AuthMiddleware(BaseHTTPMiddleware):\n    async def dispatch(self, request: Request, call_next):\n        # auth_header = request.headers.get(\"Authorization\")\n        # if not auth_header or not auth_header.startswith(\"Bearer \"):\n        raise UnauthorizedError(\"\")\n            # raise UnauthorizedError(\"Missing or invalid Authorization header\")\n        # token = auth_header.removeprefix(\"Bearer \").strip()\n        # if token != \"your-valid-token\":\n        #     raise UnauthorizedError(\"Invalid token\")",
+        "detail": "Agent.middleware.auth_middleware",
+        "documentation": {}
+    },
+    {
+        "label": "UserCreate",
+        "kind": 6,
+        "importPath": "Agent.models.models",
+        "description": "Agent.models.models",
+        "peekOfCode": "class UserCreate(BaseModel):\n    name: str\n    email: str\nclass UserRead(UserCreate):\n    id: int\nclass AgentRequest(BaseModel):\n    command: str",
+        "detail": "Agent.models.models",
+        "documentation": {}
+    },
+    {
+        "label": "UserRead",
+        "kind": 6,
+        "importPath": "Agent.models.models",
+        "description": "Agent.models.models",
+        "peekOfCode": "class UserRead(UserCreate):\n    id: int\nclass AgentRequest(BaseModel):\n    command: str",
+        "detail": "Agent.models.models",
+        "documentation": {}
+    },
+    {
+        "label": "AgentRequest",
+        "kind": 6,
+        "importPath": "Agent.models.models",
+        "description": "Agent.models.models",
+        "peekOfCode": "class AgentRequest(BaseModel):\n    command: str",
+        "detail": "Agent.models.models",
+        "documentation": {}
+    },
+    {
+        "label": "handle_agent_request",
+        "kind": 2,
+        "importPath": "Agent.routes.agent",
+        "description": "Agent.routes.agent",
+        "peekOfCode": "def handle_agent_request(UserKey: str = Query(..., description=\"API key of the user\"),request_data: AgentRequest=Body(...)):\n    response = _UserServices().process_agent_request(request_data,UserKey)\n    return response\n@router.post(\"/process/{agent_id}\")\ndef handle_agent_request(\n    # Path parameter\n    agent_id: int = Path(..., description=\"Agent ID from the URL path\"),\n    # Query parameter\n    user_key: str = Query(..., description=\"User API key\"),\n    # Header",
+        "detail": "Agent.routes.agent",
+        "documentation": {}
+    },
+    {
+        "label": "handle_agent_request",
+        "kind": 2,
+        "importPath": "Agent.routes.agent",
+        "description": "Agent.routes.agent",
+        "peekOfCode": "def handle_agent_request(\n    # Path parameter\n    agent_id: int = Path(..., description=\"Agent ID from the URL path\"),\n    # Query parameter\n    user_key: str = Query(..., description=\"User API key\"),\n    # Header\n    user_agent: Optional[str] = Header(None, description=\"User-Agent header\"),\n    # Cookie\n    session_id: Optional[str] = Cookie(None, description=\"Session ID from cookie\"),\n    # JSON Body",
+        "detail": "Agent.routes.agent",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": "Agent.routes.agent",
+        "description": "Agent.routes.agent",
+        "peekOfCode": "router = APIRouter(prefix=\"/agent\", tags=[\"agent\"])\ndef _UserServices() -> UserService:\n    return UserService()\n@router.post(\"/\")\ndef handle_agent_request(UserKey: str = Query(..., description=\"API key of the user\"),request_data: AgentRequest=Body(...)):\n    response = _UserServices().process_agent_request(request_data,UserKey)\n    return response\n@router.post(\"/process/{agent_id}\")\ndef handle_agent_request(\n    # Path parameter",
+        "detail": "Agent.routes.agent",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "kind": 6,
+        "importPath": "Agent.schemas.schemas",
+        "description": "Agent.schemas.schemas",
+        "peekOfCode": "class User(Base):\n    __tablename__ = \"users\"\n    id = Column(Integer, primary_key=True)\n    name = Column(String)\n    email = Column(String)",
+        "detail": "Agent.schemas.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "IUserService",
+        "kind": 6,
+        "importPath": "Agent.services.UserService.i_user_service",
+        "description": "Agent.services.UserService.i_user_service",
+        "peekOfCode": "class IUserService(ABC):\n    @abstractmethod\n    def process_agent_request(self,userRequest : AgentRequest,userKey:str) -> dict:\n        pass",
+        "detail": "Agent.services.UserService.i_user_service",
+        "documentation": {}
+    },
+    {
+        "label": "UserService",
+        "kind": 6,
+        "importPath": "Agent.services.UserService.user_service",
+        "description": "Agent.services.UserService.user_service",
+        "peekOfCode": "class UserService(IUserService):\n    def process_agent_request(self,userRequest : AgentRequest,userKey:str) -> dict:\n        # Example implementation logic\n        if(userKey != \"valid_user_key\"):\n            raise NotFoundError(\"User not found\")\n        response = {\n            \"status\": \"success\",\n            \"message\": \"Agent request processed\",\n            \"data\": {\n                \"agent_id\": 123,",
+        "detail": "Agent.services.UserService.user_service",
+        "documentation": {}
+    },
+    {
+        "label": "process_Agent_Request",
+        "kind": 2,
+        "importPath": "Agent.services.genai_sevice",
+        "description": "Agent.services.genai_sevice",
+        "peekOfCode": "def process_Agent_Request(request_data: AgentRequest):\n    try:\n        # response = client.models.generate_content(\n        #     model=\"gemini-2.0-flash\", \n        #     contents=request_data.command,\n        # )\n        if AskLLM(\n            command=request_data.command,\n            askLike=\"Is user asking to add task?\"\n        ):",
+        "detail": "Agent.services.genai_sevice",
+        "documentation": {}
+    },
+    {
+        "label": "AskLLM",
+        "kind": 2,
+        "importPath": "Agent.services.genai_sevice",
+        "description": "Agent.services.genai_sevice",
+        "peekOfCode": "def AskLLM(command: str, askLike: str):\n    try:\n        prompt = f\"\"\"\n            You are a smart assistant. Analyze the user command and answer strictly with True or False.\n            User Command: \"{command}\"\n            Question: \"{askLike}\"\n            Answer with only one word: True or False.\n            \"\"\"\n        response = client.models.generate_content(\n            model=\"gemini-2.0-flash\",",
+        "detail": "Agent.services.genai_sevice",
+        "documentation": {}
+    },
+    {
+        "label": "client",
+        "kind": 5,
+        "importPath": "Agent.services.genai_sevice",
+        "description": "Agent.services.genai_sevice",
+        "peekOfCode": "client = genai.Client(api_key=\"AIzaSyAXdBRzrjq1h13TIfFgQDaNOV9g-6koXq4\")\ndef process_Agent_Request(request_data: AgentRequest):\n    try:\n        # response = client.models.generate_content(\n        #     model=\"gemini-2.0-flash\", \n        #     contents=request_data.command,\n        # )\n        if AskLLM(\n            command=request_data.command,\n            askLike=\"Is user asking to add task?\"",
+        "detail": "Agent.services.genai_sevice",
+        "documentation": {}
+    },
+    {
+        "label": "get_users",
+        "kind": 2,
+        "importPath": "Agent.services.user_service",
+        "description": "Agent.services.user_service",
+        "peekOfCode": "def get_users():\n    db = SessionLocal()\n    users = db.query(User).all()\n    db.close()\n    return users\ndef create_user(user_data):\n    db = SessionLocal()\n    user = User(**user_data.dict())\n    db.add(user)\n    db.commit()",
+        "detail": "Agent.services.user_service",
+        "documentation": {}
+    },
+    {
+        "label": "create_user",
+        "kind": 2,
+        "importPath": "Agent.services.user_service",
+        "description": "Agent.services.user_service",
+        "peekOfCode": "def create_user(user_data):\n    db = SessionLocal()\n    user = User(**user_data.dict())\n    db.add(user)\n    db.commit()\n    db.refresh(user)\n    db.close()\n    return user",
+        "detail": "Agent.services.user_service",
+        "documentation": {}
+    },
+    {
+        "label": "read_root",
+        "kind": 2,
+        "importPath": "Agent.main",
+        "description": "Agent.main",
+        "peekOfCode": "def read_root():\n    return {\"message\": \"API is working!\"}",
+        "detail": "Agent.main",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "Agent.main",
+        "description": "Agent.main",
+        "peekOfCode": "app = FastAPI()\n# Register routes\napp.include_router(agent.router)\napp.add_exception_handler(NotFoundError, not_found_exception_handler)\napp.add_exception_handler(BadRequestError, bad_request_exception_handler)\napp.add_exception_handler(InternalServerError, internal_server_error_handler)\napp.add_exception_handler(RequestValidationError, validation_exception_handler)\napp.add_exception_handler(UnauthorizedError, unauthorized_exception_handler)\napp.add_exception_handler(Exception, generic_exception_handler)\n# app.add_middleware(AuthMiddleware)",
+        "detail": "Agent.main",
+        "documentation": {}
+    },
+    {
+        "label": "client",
+        "kind": 5,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "client = genai.Client(api_key=\"AIzaSyAXdBRzrjq1h13TIfFgQDaNOV9g-6koXq4\")\nresponse = client.models.generate_content(\n    model=\"gemini-2.0-flash\", contents=\"what is the llm?\"\n)\nprint(response)",
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "response",
+        "kind": 5,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "response = client.models.generate_content(\n    model=\"gemini-2.0-flash\", contents=\"what is the llm?\"\n)\nprint(response)",
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "Car",
+        "kind": 6,
+        "importPath": "oops",
+        "description": "oops",
+        "peekOfCode": "class Car:\n    def __init__(self, brand, color):\n        self.brand = brand\n        self.color = color\n    def drive(self):\n        print(f\"The {self.color} {self.brand} is driving.\")\n# 2. ENCAPSULATION\n# Encapsulation hides internal data using private variables and provides access through methods.\nclass BankAccount:\n    def __init__(self):",
+        "detail": "oops",
+        "documentation": {}
+    },
+    {
+        "label": "BankAccount",
+        "kind": 6,
+        "importPath": "oops",
+        "description": "oops",
+        "peekOfCode": "class BankAccount:\n    def __init__(self):\n        self.__balance = 0  # private variable (double underscore)\n    def deposit(self, amount):\n        self.__balance += amount  # internal logic is hidden\n    def get_balance(self):\n        return self.__balance  # access controlled via method\n# 3. INHERITANCE\n# A child class inherits behavior from the parent class and can override it.\nclass Animal:",
+        "detail": "oops",
+        "documentation": {}
+    },
+    {
+        "label": "Animal",
+        "kind": 6,
+        "importPath": "oops",
+        "description": "oops",
+        "peekOfCode": "class Animal:\n    def speak(self):\n        print(\"Animal makes a sound\")\nclass Dog(Animal):\n    def speak(self):\n        print(\"Dog barks\")  # overriding parent method\n# 4. POLYMORPHISM\n# Polymorphism allows the same method name to behave differently based on the object.\nclass Cat:\n    def sound(self):",
+        "detail": "oops",
+        "documentation": {}
+    },
+    {
+        "label": "Dog",
+        "kind": 6,
+        "importPath": "oops",
+        "description": "oops",
+        "peekOfCode": "class Dog(Animal):\n    def speak(self):\n        print(\"Dog barks\")  # overriding parent method\n# 4. POLYMORPHISM\n# Polymorphism allows the same method name to behave differently based on the object.\nclass Cat:\n    def sound(self):\n        print(\"Meow\")\nclass AnotherDog:\n    def sound(self):",
+        "detail": "oops",
+        "documentation": {}
+    },
+    {
+        "label": "Cat",
+        "kind": 6,
+        "importPath": "oops",
+        "description": "oops",
+        "peekOfCode": "class Cat:\n    def sound(self):\n        print(\"Meow\")\nclass AnotherDog:\n    def sound(self):\n        print(\"Bark\")\ndef make_sound(animal):\n    animal.sound()  # Works for any object with a sound() method\n# Example usage of polymorphism\ncat = Cat()",
+        "detail": "oops",
+        "documentation": {}
+    },
+    {
+        "label": "AnotherDog",
+        "kind": 6,
+        "importPath": "oops",
+        "description": "oops",
+        "peekOfCode": "class AnotherDog:\n    def sound(self):\n        print(\"Bark\")\ndef make_sound(animal):\n    animal.sound()  # Works for any object with a sound() method\n# Example usage of polymorphism\ncat = Cat()\ndog = AnotherDog()\nex=make_sound(cat).sound()  # Output: Meow \nex2=make_sound(dog).sound()  # Output: Bark",
+        "detail": "oops",
+        "documentation": {}
+    },
+    {
+        "label": "Shape",
+        "kind": 6,
+        "importPath": "oops",
+        "description": "oops",
+        "peekOfCode": "class Shape(ABC):  # Abstract Base Class\n    @abstractmethod\n    def area(self):\n        pass  # no implementation here\nclass Circle(Shape):\n    def area(self):\n        radius = 5\n        return 3.14 * radius * radius  # implementation provided by subclass\n# MAIN PROGRAM\nif __name__ == \"__main__\":",
+        "detail": "oops",
+        "documentation": {}
+    },
+    {
+        "label": "Circle",
+        "kind": 6,
+        "importPath": "oops",
+        "description": "oops",
+        "peekOfCode": "class Circle(Shape):\n    def area(self):\n        radius = 5\n        return 3.14 * radius * radius  # implementation provided by subclass\n# MAIN PROGRAM\nif __name__ == \"__main__\":\n    print(\"=== CLASS & OBJECT ===\")\n    my_car = Car(\"Toyota\", \"Red\")\n    my_car.drive()  # Output: The Red Toyota is driving.\n    print(\"\\n=== ENCAPSULATION ===\")",
+        "detail": "oops",
+        "documentation": {}
+    },
+    {
+        "label": "make_sound",
+        "kind": 2,
+        "importPath": "oops",
+        "description": "oops",
+        "peekOfCode": "def make_sound(animal):\n    animal.sound()  # Works for any object with a sound() method\n# Example usage of polymorphism\ncat = Cat()\ndog = AnotherDog()\nex=make_sound(cat).sound()  # Output: Meow \nex2=make_sound(dog).sound()  # Output: Bark\n# 5. ABSTRACTION\n# Abstraction hides complex implementation and shows only essential features.\nclass Shape(ABC):  # Abstract Base Class",
+        "detail": "oops",
+        "documentation": {}
+    },
+    {
+        "label": "cat",
+        "kind": 5,
+        "importPath": "oops",
+        "description": "oops",
+        "peekOfCode": "cat = Cat()\ndog = AnotherDog()\nex=make_sound(cat).sound()  # Output: Meow \nex2=make_sound(dog).sound()  # Output: Bark\n# 5. ABSTRACTION\n# Abstraction hides complex implementation and shows only essential features.\nclass Shape(ABC):  # Abstract Base Class\n    @abstractmethod\n    def area(self):\n        pass  # no implementation here",
+        "detail": "oops",
+        "documentation": {}
+    },
+    {
+        "label": "dog",
+        "kind": 5,
+        "importPath": "oops",
+        "description": "oops",
+        "peekOfCode": "dog = AnotherDog()\nex=make_sound(cat).sound()  # Output: Meow \nex2=make_sound(dog).sound()  # Output: Bark\n# 5. ABSTRACTION\n# Abstraction hides complex implementation and shows only essential features.\nclass Shape(ABC):  # Abstract Base Class\n    @abstractmethod\n    def area(self):\n        pass  # no implementation here\nclass Circle(Shape):",
+        "detail": "oops",
+        "documentation": {}
+    },
+    {
+        "label": "Car",
+        "kind": 6,
+        "importPath": "oppsLearing",
+        "description": "oppsLearing",
+        "peekOfCode": "class Car:\n    def __init__(self):\n        self.__Name = \"No found!\"\n        self.Brand = \"RR\"\n    def SetName(self, name):\n        self.__Name = name\n    def CarName(self):\n        print(f\"Car Name: {self.__Name}\")\nprint(\"=== CLASS & OBJECT ===\")\ndef Main():",
+        "detail": "oppsLearing",
+        "documentation": {}
+    },
+    {
+        "label": "Main",
+        "kind": 2,
+        "importPath": "oppsLearing",
+        "description": "oppsLearing",
+        "peekOfCode": "def Main():\n    my_car = Car()\n    my_car.SetName(\"Toyota\")\n    my_car.CarName()  # Output: Car Name: Toyota\n    print(f\"Card Brand: {my_car.Brand}\")\n    print(f\"Card Brand: {my_car.__Name}\")\nMain()",
+        "detail": "oppsLearing",
+        "documentation": {}
+    },
+    {
+        "label": "Person",
+        "kind": 6,
+        "importPath": "tools",
+        "description": "tools",
+        "peekOfCode": "class Person:\n    def __init__(self, name):\n        self.name = name\n    def greet(self):\n        print(f\"Hi, I'm {self.name}\")\nclass Student(Person):\n    def greet(self):\n        print(f\"I'm a student named {self.name}\")\np = Person(\"Alice\")\np.greet()",
+        "detail": "tools",
+        "documentation": {}
+    },
+    {
+        "label": "Student",
+        "kind": 6,
+        "importPath": "tools",
+        "description": "tools",
+        "peekOfCode": "class Student(Person):\n    def greet(self):\n        print(f\"I'm a student named {self.name}\")\np = Person(\"Alice\")\np.greet()\ns = Student(\"Bob\")\ns.greet()\n# Output:\n# Section 9: Object-Oriented Programming\n# Hi, I'm Alice",
+        "detail": "tools",
+        "documentation": {}
+    },
+    {
+        "label": "FileContextManager",
+        "kind": 6,
+        "importPath": "tools",
+        "description": "tools",
+        "peekOfCode": "class FileContextManager:\n    \"\"\"A context manager for file operations.\"\"\"\n    def __init__(self, filename, mode):\n        self.filename = filename\n        self.mode = mode\n        self.file = None\n    def __enter__(self):\n        self.file = open(self.filename, self.mode)\n        return self.file\n    def __exit__(self, exc_type, exc_val, exc_tb):",
+        "detail": "tools",
+        "documentation": {}
+    },
+    {
+        "label": "greet",
+        "kind": 2,
+        "importPath": "tools",
+        "description": "tools",
+        "peekOfCode": "def greet(name):\n    \"\"\"Prints a greeting message\"\"\"\n    print(f\"Hello, {name}!\")\ndef square(n):\n    \"\"\"Returns the square of a number\"\"\"\n    return n * n\ngreet(\"Bob\")\nprint(f\"Square of 4 is: {square(4)}\")\n# Output:\n# Section 4: Functions",
+        "detail": "tools",
+        "documentation": {}
+    },
+    {
+        "label": "square",
+        "kind": 2,
+        "importPath": "tools",
+        "description": "tools",
+        "peekOfCode": "def square(n):\n    \"\"\"Returns the square of a number\"\"\"\n    return n * n\ngreet(\"Bob\")\nprint(f\"Square of 4 is: {square(4)}\")\n# Output:\n# Section 4: Functions\n# Hello, Bob!\n# Square of 4 is: 16",
+        "detail": "tools",
+        "documentation": {}
+    },
+    {
+        "label": "reverse_list",
+        "kind": 2,
+        "importPath": "tools",
+        "description": "tools",
+        "peekOfCode": "def reverse_list(lst):\n    return lst[::-1]\ndef test_reverse_list():\n    assert reverse_list([1, 2, 3]) == [3, 2, 1]\n    print(\"Test passed!\")\ntest_reverse_list()\n# Output:\n# Section 10: Testing and Debugging\n# Test passed!\n# --- 11. Command-Line Arguments ---",
+        "detail": "tools",
+        "documentation": {}
+    },
+    {
+        "label": "test_reverse_list",
+        "kind": 2,
+        "importPath": "tools",
+        "description": "tools",
+        "peekOfCode": "def test_reverse_list():\n    assert reverse_list([1, 2, 3]) == [3, 2, 1]\n    print(\"Test passed!\")\ntest_reverse_list()\n# Output:\n# Section 10: Testing and Debugging\n# Test passed!\n# --- 11. Command-Line Arguments ---\nprint(\"\\nSection 11: Command-Line Arguments\")\nimport sys",
+        "detail": "tools",
+        "documentation": {}
+    },
+    {
+        "label": "word_count",
+        "kind": 2,
+        "importPath": "tools",
+        "description": "tools",
+        "peekOfCode": "def word_count(text):\n    words = text.split()\n    counts = {}\n    for word in words:\n        counts[word] = counts.get(word, 0) + 1\n    return counts\nsample_text = \"hello world hello python python world\"\ncounts = word_count(sample_text)\nprint(\"Word Frequencies:\")\nfor word, count in counts.items():",
+        "detail": "tools",
+        "documentation": {}
+    },
+    {
+        "label": "timer",
+        "kind": 2,
+        "importPath": "tools",
+        "description": "tools",
+        "peekOfCode": "def timer(func):\n    \"\"\"A decorator that times the execution of a function.\"\"\"\n    def wrapper(*args, **kwargs):\n        start_time = time.time()\n        result = func(*args, **kwargs)\n        end_time = time.time()\n        print(f\"Function {func.__name__} took {end_time - start_time:.4f} seconds\")\n        return result\n    return wrapper\n@timer",
+        "detail": "tools",
+        "documentation": {}
+    },
+    {
+        "label": "slow_function",
+        "kind": 2,
+        "importPath": "tools",
+        "description": "tools",
+        "peekOfCode": "def slow_function():\n    \"\"\"A function that takes a while to execute.\"\"\"\n    time.sleep(2)\nslow_function()\n# Output: (Will vary slightly depending on system)\n# Section 13: Advanced - Decorators\n# Function slow_function took 2.0008 seconds\n# --- 14. Advanced: Generators ---\nprint(\"\\nSection 14: Advanced - Generators\")\ndef fibonacci_generator(n):",
+        "detail": "tools",
+        "documentation": {}
+    },
+    {
+        "label": "fibonacci_generator",
+        "kind": 2,
+        "importPath": "tools",
+        "description": "tools",
+        "peekOfCode": "def fibonacci_generator(n):\n    \"\"\"A generator that yields the Fibonacci sequence up to n terms.\"\"\"\n    a, b = 0, 1\n    for _ in range(n):\n        yield a\n        a, b = b, a + b\nfor num in fibonacci_generator(10):\n    print(num)\n# Output:\n# Section 14: Advanced - Generators",
+        "detail": "tools",
+        "documentation": {}
+    },
+    {
+        "label": "task",
+        "kind": 2,
+        "importPath": "tools",
+        "description": "tools",
+        "peekOfCode": "def task(name):\n    print(f\"Task {name} started\")\n    time.sleep(1)  # Simulate some work\n    print(f\"Task {name} finished\")\n# Multithreading\nprint(\"\\nMultithreading:\")\nthreads = []\nfor i in range(2):\n    t = threading.Thread(target=task, args=(f\"Thread-{i}\",))\n    threads.append(t)",
+        "detail": "tools",
+        "documentation": {}
+    },
+    {
+        "label": "name",
+        "kind": 5,
+        "importPath": "tools",
+        "description": "tools",
+        "peekOfCode": "name = \"Alice\"\nage = 25\npi = 3.14\nis_student = True\nprint(f\"{name}, Age: {age}, Pi: {pi}, Student: {is_student}\",\"\",\"\",sep=\", \",end=\"\")\n# Output:\n# Section 2: Variables and Data Types\n# Alice, Age: 25, Pi: 3.14, Student: True\n# Type Conversion\nage_str = str(age)",
+        "detail": "tools",
+        "documentation": {}
+    },
+    {
+        "label": "age",
+        "kind": 5,
+        "importPath": "tools",
+        "description": "tools",
+        "peekOfCode": "age = 25\npi = 3.14\nis_student = True\nprint(f\"{name}, Age: {age}, Pi: {pi}, Student: {is_student}\",\"\",\"\",sep=\", \",end=\"\")\n# Output:\n# Section 2: Variables and Data Types\n# Alice, Age: 25, Pi: 3.14, Student: True\n# Type Conversion\nage_str = str(age)\nage_int = int(\"30\")",
+        "detail": "tools",
+        "documentation": {}
+    },
+    {
+        "label": "pi",
+        "kind": 5,
+        "importPath": "tools",
+        "description": "tools",
+        "peekOfCode": "pi = 3.14\nis_student = True\nprint(f\"{name}, Age: {age}, Pi: {pi}, Student: {is_student}\",\"\",\"\",sep=\", \",end=\"\")\n# Output:\n# Section 2: Variables and Data Types\n# Alice, Age: 25, Pi: 3.14, Student: True\n# Type Conversion\nage_str = str(age)\nage_int = int(\"30\")\nprint(f\"Converted age: {age_str} (str), Parsed age: {age_int} (int)\")",
+        "detail": "tools",
+        "documentation": {}
+    },
+    {
+        "label": "is_student",
+        "kind": 5,
+        "importPath": "tools",
+        "description": "tools",
+        "peekOfCode": "is_student = True\nprint(f\"{name}, Age: {age}, Pi: {pi}, Student: {is_student}\",\"\",\"\",sep=\", \",end=\"\")\n# Output:\n# Section 2: Variables and Data Types\n# Alice, Age: 25, Pi: 3.14, Student: True\n# Type Conversion\nage_str = str(age)\nage_int = int(\"30\")\nprint(f\"Converted age: {age_str} (str), Parsed age: {age_int} (int)\")\n# Output:",
+        "detail": "tools",
+        "documentation": {}
+    },
+    {
+        "label": "age_str",
+        "kind": 5,
+        "importPath": "tools",
+        "description": "tools",
+        "peekOfCode": "age_str = str(age)\nage_int = int(\"30\")\nprint(f\"Converted age: {age_str} (str), Parsed age: {age_int} (int)\")\n# Output:\n# Converted age: 25 (str), Parsed age: 30 (int)",
+        "detail": "tools",
+        "documentation": {}
+    },
+    {
+        "label": "age_int",
+        "kind": 5,
+        "importPath": "tools",
+        "description": "tools",
+        "peekOfCode": "age_int = int(\"30\")\nprint(f\"Converted age: {age_str} (str), Parsed age: {age_int} (int)\")\n# Output:\n# Converted age: 25 (str), Parsed age: 30 (int)",
+        "detail": "tools",
+        "documentation": {}
+    },
+    {
+        "label": "num",
+        "kind": 5,
+        "importPath": "tools",
+        "description": "tools",
+        "peekOfCode": "num = -2\nif num > 0:\n    print(\"Positive\")\nelif num == 0:\n    print(\"Zero\")\nelse:\n    print(\"Negative\")\n# Output:\n# Section 3: Control Flow\n# Negative",
+        "detail": "tools",
+        "documentation": {}
+    },
+    {
+        "label": "count",
+        "kind": 5,
+        "importPath": "tools",
+        "description": "tools",
+        "peekOfCode": "count = 3\nwhile count > 0:\n    print(f\"While loop countdown: {count}\")\n    count -= 1\n# Output:\n# While loop countdown: 3\n# While loop countdown: 2\n# While loop countdown: 1\n# Using match-case (introduced in Python 3.10) to handle different command values\nmatch \"command\":",
+        "detail": "tools",
+        "documentation": {}
+    },
+    {
+        "label": "fruits",
+        "kind": 5,
+        "importPath": "tools",
+        "description": "tools",
+        "peekOfCode": "fruits = [\"apple\", \"banana\", \"cherry\"]\nfor fruit in fruits:\n    print(f\"I like {fruit}\")\n# Output:\n# Section 5: Data Structures\n# I like apple\n# I like banana\n# I like cherry\n# List: append(), extend(), insert(), remove(), pop(), clear(), index(), count(), sort(), reverse(), copy()\n# Tuple",
+        "detail": "tools",
+        "documentation": {}
+    },
+    {
+        "label": "person",
+        "kind": 5,
+        "importPath": "tools",
+        "description": "tools",
+        "peekOfCode": "person = (\"Alice\", 25)\nname, age = person  # Tuple unpacking\nprint(f\"{name} is {age} years old\")\n# Output:\n# Alice is 25 years old\n# Tuple: count(), index()\n# Dictionary\ngrades = {\"Alice\": 90, \"Bob\": 85}\nfor student, score in grades.items():\n    print(f\"{student}: {score}\")",
+        "detail": "tools",
+        "documentation": {}
+    },
+    {
+        "label": "grades",
+        "kind": 5,
+        "importPath": "tools",
+        "description": "tools",
+        "peekOfCode": "grades = {\"Alice\": 90, \"Bob\": 85}\nfor student, score in grades.items():\n    print(f\"{student}: {score}\")\n# Output:\n# Alice: 90\n# Bob: 85\n# Dictionary: get(), keys(), values(), items(), update(), pop(), popitem(), clear(), setdefault()\n# Set\nunique_numbers = {1, 2, 2, 3}\nfor num in unique_numbers:",
+        "detail": "tools",
+        "documentation": {}
+    },
+    {
+        "label": "unique_numbers",
+        "kind": 5,
+        "importPath": "tools",
+        "description": "tools",
+        "peekOfCode": "unique_numbers = {1, 2, 2, 3}\nfor num in unique_numbers:\n    print(f\"Unique number: {num}\")\n# Output:\n# Unique number: 1\n# Unique number: 2\n# Unique number: 3\n# Set: add(), update(), remove(), discard(), pop(), clear(), copy(), union(), intersection(), difference(), issubset(), issuperset()\n# List comprehension\nfor x in range(5):",
+        "detail": "tools",
+        "documentation": {}
+    },
+    {
+        "label": "squares",
+        "kind": 5,
+        "importPath": "tools",
+        "description": "tools",
+        "peekOfCode": "squares = [x * x for x in range(5)]\nprint(f\"Squares: {squares}\")\n# Output:\n# Squares: [0, 1, 4, 9, 16]\n# --- 6. Modules and Libraries ---\nprint(\"\\nSection 6: Modules and Libraries\")",
+        "detail": "tools",
+        "documentation": {}
+    },
+    {
+        "label": "names",
+        "kind": 5,
+        "importPath": "tools",
+        "description": "tools",
+        "peekOfCode": "names = [\"Alice\", \"Bob\", \"Charlie\"]\nfor _ in range(3):\n    print(f\"Random name: {random.choice(names)}\")\n# Output: (Example, will vary due to randomness)\n# Section 6: Modules and Libraries\n# Random name: Charlie\n# Random name: Bob\n# Random name: Alice",
+        "detail": "tools",
+        "documentation": {}
+    },
+    {
+        "label": "p",
+        "kind": 5,
+        "importPath": "tools",
+        "description": "tools",
+        "peekOfCode": "p = Person(\"Alice\")\np.greet()\ns = Student(\"Bob\")\ns.greet()\n# Output:\n# Section 9: Object-Oriented Programming\n# Hi, I'm Alice\n# I'm a student named Bob",
+        "detail": "tools",
+        "documentation": {}
+    },
+    {
+        "label": "s",
+        "kind": 5,
+        "importPath": "tools",
+        "description": "tools",
+        "peekOfCode": "s = Student(\"Bob\")\ns.greet()\n# Output:\n# Section 9: Object-Oriented Programming\n# Hi, I'm Alice\n# I'm a student named Bob",
+        "detail": "tools",
+        "documentation": {}
+    },
+    {
+        "label": "sample_text",
+        "kind": 5,
+        "importPath": "tools",
+        "description": "tools",
+        "peekOfCode": "sample_text = \"hello world hello python python world\"\ncounts = word_count(sample_text)\nprint(\"Word Frequencies:\")\nfor word, count in counts.items():\n    print(f\"{word}: {count}\")\n# Output:\n# Section 12: Practical Application - Word Counter\n# Word Frequencies:\n# hello: 2\n# world: 2",
+        "detail": "tools",
+        "documentation": {}
+    },
+    {
+        "label": "counts",
+        "kind": 5,
+        "importPath": "tools",
+        "description": "tools",
+        "peekOfCode": "counts = word_count(sample_text)\nprint(\"Word Frequencies:\")\nfor word, count in counts.items():\n    print(f\"{word}: {count}\")\n# Output:\n# Section 12: Practical Application - Word Counter\n# Word Frequencies:\n# hello: 2\n# world: 2\n# python: 2",
+        "detail": "tools",
+        "documentation": {}
+    },
+    {
+        "label": "square",
+        "kind": 5,
+        "importPath": "tools",
+        "description": "tools",
+        "peekOfCode": "square = lambda x: x * x\nprint(f\"Square of 5 is: {square(5)}\")\n# Using lambda with map()\nnumbers = [1, 2, 3, 4, 5]\nsquared_numbers = list(map(lambda x: x * x, numbers))\nprint(f\"Squared numbers: {squared_numbers}\")\n# Output:\n# Section 16: Advanced - Lambda Functions\n# Square of 5 is: 25\n# Squared numbers: [1, 4, 9, 16, 25]",
+        "detail": "tools",
+        "documentation": {}
+    },
+    {
+        "label": "numbers",
+        "kind": 5,
+        "importPath": "tools",
+        "description": "tools",
+        "peekOfCode": "numbers = [1, 2, 3, 4, 5]\nsquared_numbers = list(map(lambda x: x * x, numbers))\nprint(f\"Squared numbers: {squared_numbers}\")\n# Output:\n# Section 16: Advanced - Lambda Functions\n# Square of 5 is: 25\n# Squared numbers: [1, 4, 9, 16, 25]\n# --- 17. Advanced: Regular Expressions ---\nprint(\"\\nSection 17: Advanced - Regular Expressions\")\nimport re",
+        "detail": "tools",
+        "documentation": {}
+    },
+    {
+        "label": "squared_numbers",
+        "kind": 5,
+        "importPath": "tools",
+        "description": "tools",
+        "peekOfCode": "squared_numbers = list(map(lambda x: x * x, numbers))\nprint(f\"Squared numbers: {squared_numbers}\")\n# Output:\n# Section 16: Advanced - Lambda Functions\n# Square of 5 is: 25\n# Squared numbers: [1, 4, 9, 16, 25]\n# --- 17. Advanced: Regular Expressions ---\nprint(\"\\nSection 17: Advanced - Regular Expressions\")\nimport re\ntext = \"My phone number is 123-456-7890 and another one is 987-654-3210.\"",
+        "detail": "tools",
+        "documentation": {}
+    },
+    {
+        "label": "text",
+        "kind": 5,
+        "importPath": "tools",
+        "description": "tools",
+        "peekOfCode": "text = \"My phone number is 123-456-7890 and another one is 987-654-3210.\"\nphone_numbers = re.findall(r\"\\d{3}-\\d{3}-\\d{4}\", text)\nprint(f\"Phone numbers found: {phone_numbers}\")\nemail = \"Contact us at support@example.com or sales@company.net\"\nemails = re.findall(r\"[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\\.[a-zA-Z]{2,}\", email)\nprint(f\"Emails found: {emails}\")\n# Output:\n# Section 17: Advanced - Regular Expressions\n# Phone numbers found: ['123-456-7890', '987-654-3210']\n# Emails found: ['support@example.com', 'sales@company.net']",
+        "detail": "tools",
+        "documentation": {}
+    },
+    {
+        "label": "phone_numbers",
+        "kind": 5,
+        "importPath": "tools",
+        "description": "tools",
+        "peekOfCode": "phone_numbers = re.findall(r\"\\d{3}-\\d{3}-\\d{4}\", text)\nprint(f\"Phone numbers found: {phone_numbers}\")\nemail = \"Contact us at support@example.com or sales@company.net\"\nemails = re.findall(r\"[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\\.[a-zA-Z]{2,}\", email)\nprint(f\"Emails found: {emails}\")\n# Output:\n# Section 17: Advanced - Regular Expressions\n# Phone numbers found: ['123-456-7890', '987-654-3210']\n# Emails found: ['support@example.com', 'sales@company.net']\n# --- 18. Advanced: Data Serialization (JSON) ---",
+        "detail": "tools",
+        "documentation": {}
+    },
+    {
+        "label": "email",
+        "kind": 5,
+        "importPath": "tools",
+        "description": "tools",
+        "peekOfCode": "email = \"Contact us at support@example.com or sales@company.net\"\nemails = re.findall(r\"[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\\.[a-zA-Z]{2,}\", email)\nprint(f\"Emails found: {emails}\")\n# Output:\n# Section 17: Advanced - Regular Expressions\n# Phone numbers found: ['123-456-7890', '987-654-3210']\n# Emails found: ['support@example.com', 'sales@company.net']\n# --- 18. Advanced: Data Serialization (JSON) ---\nprint(\"\\nSection 18: Advanced - Data Serialization (JSON)\")\nimport json",
+        "detail": "tools",
+        "documentation": {}
+    },
+    {
+        "label": "emails",
+        "kind": 5,
+        "importPath": "tools",
+        "description": "tools",
+        "peekOfCode": "emails = re.findall(r\"[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\\.[a-zA-Z]{2,}\", email)\nprint(f\"Emails found: {emails}\")\n# Output:\n# Section 17: Advanced - Regular Expressions\n# Phone numbers found: ['123-456-7890', '987-654-3210']\n# Emails found: ['support@example.com', 'sales@company.net']\n# --- 18. Advanced: Data Serialization (JSON) ---\nprint(\"\\nSection 18: Advanced - Data Serialization (JSON)\")\nimport json\ndata = {",
+        "detail": "tools",
+        "documentation": {}
+    },
+    {
+        "label": "data",
+        "kind": 5,
+        "importPath": "tools",
+        "description": "tools",
+        "peekOfCode": "data = {\n    \"name\": \"John Doe\",\n    \"age\": 30,\n    \"city\": \"New York\"\n}\n# Convert Python dictionary to JSON string\njson_string = json.dumps(data)\nprint(f\"JSON string: {json_string}\")\n# Convert JSON string back to Python dictionary\npython_dict = json.loads(json_string)",
+        "detail": "tools",
+        "documentation": {}
+    },
+    {
+        "label": "json_string",
+        "kind": 5,
+        "importPath": "tools",
+        "description": "tools",
+        "peekOfCode": "json_string = json.dumps(data)\nprint(f\"JSON string: {json_string}\")\n# Convert JSON string back to Python dictionary\npython_dict = json.loads(json_string)\nprint(f\"Python dictionary: {python_dict}\")\n#Writing JSON to a file\nwith open('data.json', 'w') as outfile:\n    json.dump(data, outfile, indent=4) #indent makes the JSON file readable\n#Reading JSON from a file\nwith open('data.json', 'r') as infile:",
+        "detail": "tools",
+        "documentation": {}
+    },
+    {
+        "label": "python_dict",
+        "kind": 5,
+        "importPath": "tools",
+        "description": "tools",
+        "peekOfCode": "python_dict = json.loads(json_string)\nprint(f\"Python dictionary: {python_dict}\")\n#Writing JSON to a file\nwith open('data.json', 'w') as outfile:\n    json.dump(data, outfile, indent=4) #indent makes the JSON file readable\n#Reading JSON from a file\nwith open('data.json', 'r') as infile:\n    loaded_data = json.load(infile)\n    print(f\"Loaded from file: {loaded_data}\")\n# Output:",
+        "detail": "tools",
+        "documentation": {}
+    },
+    {
+        "label": "now",
+        "kind": 5,
+        "importPath": "tools",
+        "description": "tools",
+        "peekOfCode": "now = datetime.datetime.now()\nprint(f\"Current date and time: {now}\")\n# Format the date and time\nformatted_date = now.strftime(\"%Y-%m-%d %H:%M:%S\")\nprint(f\"Formatted date: {formatted_date}\")\n# Create a specific date\nspecific_date = datetime.datetime(2024, 1, 1)\nprint(f\"Specific date: {specific_date}\")\n#Date arithmetic\nfuture_date = now + datetime.timedelta(days=7)",
+        "detail": "tools",
+        "documentation": {}
+    },
+    {
+        "label": "formatted_date",
+        "kind": 5,
+        "importPath": "tools",
+        "description": "tools",
+        "peekOfCode": "formatted_date = now.strftime(\"%Y-%m-%d %H:%M:%S\")\nprint(f\"Formatted date: {formatted_date}\")\n# Create a specific date\nspecific_date = datetime.datetime(2024, 1, 1)\nprint(f\"Specific date: {specific_date}\")\n#Date arithmetic\nfuture_date = now + datetime.timedelta(days=7)\nprint(f\"Date in 7 days: {future_date}\")\n# Output: (Will vary depending on current time)\n# Section 19: Advanced - Working with Dates and Times",
+        "detail": "tools",
+        "documentation": {}
+    },
+    {
+        "label": "specific_date",
+        "kind": 5,
+        "importPath": "tools",
+        "description": "tools",
+        "peekOfCode": "specific_date = datetime.datetime(2024, 1, 1)\nprint(f\"Specific date: {specific_date}\")\n#Date arithmetic\nfuture_date = now + datetime.timedelta(days=7)\nprint(f\"Date in 7 days: {future_date}\")\n# Output: (Will vary depending on current time)\n# Section 19: Advanced - Working with Dates and Times\n# Current date and time: 2023-11-17 16:35:00.123456\n# Formatted date: 2023-11-17 16:35:00\n# Specific date: 2024-01-01 00:00:00",
+        "detail": "tools",
+        "documentation": {}
+    },
+    {
+        "label": "future_date",
+        "kind": 5,
+        "importPath": "tools",
+        "description": "tools",
+        "peekOfCode": "future_date = now + datetime.timedelta(days=7)\nprint(f\"Date in 7 days: {future_date}\")\n# Output: (Will vary depending on current time)\n# Section 19: Advanced - Working with Dates and Times\n# Current date and time: 2023-11-17 16:35:00.123456\n# Formatted date: 2023-11-17 16:35:00\n# Specific date: 2024-01-01 00:00:00\n# Date in 7 days: 2023-11-24 16:35:00.123456\n# --- 20. Advanced: Using the `requests` Library for API Interaction ---\nprint(\"\\nSection 20: Advanced - Using the `requests` Library for API Interaction\")",
+        "detail": "tools",
+        "documentation": {}
+    },
+    {
+        "label": "threads",
+        "kind": 5,
+        "importPath": "tools",
+        "description": "tools",
+        "peekOfCode": "threads = []\nfor i in range(2):\n    t = threading.Thread(target=task, args=(f\"Thread-{i}\",))\n    threads.append(t)\n    t.start()\nfor t in threads:\n    t.join()  # Wait for all threads to complete\n# Multiprocessing\nprint(\"\\nMultiprocessing:\")\nprocesses = []",
+        "detail": "tools",
+        "documentation": {}
+    },
+    {
+        "label": "processes",
+        "kind": 5,
+        "importPath": "tools",
+        "description": "tools",
+        "peekOfCode": "processes = []\nfor i in range(2):\n    p = multiprocessing.Process(target=task, args=(f\"Process-{i}\",))\n    processes.append(p)\n    p.start()\nfor p in processes:\n    p.join()  # Wait for all processes to complete\nprint(\"All tasks finished\")\n# Output will be interleaved and order may vary:\n# Section 21: Multithreading and Multiprocessing",
+        "detail": "tools",
+        "documentation": {}
+    }
+]

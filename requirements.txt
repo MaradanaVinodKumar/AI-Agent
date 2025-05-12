@@ -1,0 +1,31 @@
+# Existing AI/Search Libraries
+langchain
+wikipedia
+langchain-community
+langchain-openai
+langchain-anthropic
+duckduckgo-search
+
+# API & App Infrastructure
+fastapi
+uvicorn[standard]
+python-dotenv
+pydantic
+
+# Database & ORM (choose one based on your DB)
+sqlalchemy
+alembic
+psycopg2-binary     # for PostgreSQL
+# or
+# mysql-connector-python  # for MySQL
+
+# Auth & Security (optional but recommended)
+python-jose[cryptography]
+passlib[bcrypt]
+
+# Testing
+pytest
+httpx
+
+python-multipart
+google-genai
