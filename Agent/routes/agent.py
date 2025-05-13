@@ -16,9 +16,6 @@ def handle_agent_request(UserKey: str = Query(..., description="API key of the u
     return response
 
 
-
-
-
 @router.post("/process/{agent_id}")
 def handle_agent_request(
     # Path parameter

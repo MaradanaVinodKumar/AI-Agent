@@ -1,18 +1,10 @@
 [
     {
-        "label": "create_async_engine",
-        "importPath": "sqlalchemy.ext.asyncio",
-        "description": "sqlalchemy.ext.asyncio",
+        "label": "declarative_base",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
         "isExtraImport": true,
-        "detail": "sqlalchemy.ext.asyncio",
-        "documentation": {}
-    },
-    {
-        "label": "AsyncSession",
-        "importPath": "sqlalchemy.ext.asyncio",
-        "description": "sqlalchemy.ext.asyncio",
-        "isExtraImport": true,
-        "detail": "sqlalchemy.ext.asyncio",
+        "detail": "sqlalchemy.orm",
         "documentation": {}
     },
     {
@@ -24,11 +16,228 @@
         "documentation": {}
     },
     {
-        "label": "declarative_base",
-        "importPath": "sqlalchemy.orm",
-        "description": "sqlalchemy.orm",
+        "label": "make_url",
+        "importPath": "sqlalchemy.engine.url",
+        "description": "sqlalchemy.engine.url",
         "isExtraImport": true,
-        "detail": "sqlalchemy.orm",
+        "detail": "sqlalchemy.engine.url",
+        "documentation": {}
+    },
+    {
+        "label": "create_engine",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "create_engine",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "text",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Column",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Integer",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "String",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "DateTime",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Column",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Integer",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "ForeignKey",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "DateTime",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "JSON",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Column",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Integer",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "String",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Boolean",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "DateTime",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Column",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Integer",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "String",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "DateTime",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Column",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Integer",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "String",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "OperationalError",
+        "importPath": "sqlalchemy.exc",
+        "description": "sqlalchemy.exc",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.exc",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "load_dotenv",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
         "documentation": {}
     },
     {
@@ -328,6 +537,14 @@
         "documentation": {}
     },
     {
+        "label": "process_Agent_Request",
+        "importPath": "Agent.services.genai_sevice",
+        "description": "Agent.services.genai_sevice",
+        "isExtraImport": true,
+        "detail": "Agent.services.genai_sevice",
+        "documentation": {}
+    },
+    {
         "label": "Optional",
         "importPath": "typing",
         "description": "typing",
@@ -344,27 +561,60 @@
         "documentation": {}
     },
     {
-        "label": "Column",
-        "importPath": "sqlalchemy",
-        "description": "sqlalchemy",
+        "label": "datetime",
+        "kind": 6,
         "isExtraImport": true,
-        "detail": "sqlalchemy",
+        "importPath": "datetime",
+        "description": "datetime",
+        "detail": "datetime",
         "documentation": {}
     },
     {
-        "label": "Integer",
-        "importPath": "sqlalchemy",
-        "description": "sqlalchemy",
+        "label": "Base",
+        "importPath": "Agent.database.database",
+        "description": "Agent.database.database",
         "isExtraImport": true,
-        "detail": "sqlalchemy",
+        "detail": "Agent.database.database",
         "documentation": {}
     },
     {
-        "label": "String",
-        "importPath": "sqlalchemy",
-        "description": "sqlalchemy",
+        "label": "Base",
+        "importPath": "Agent.database.database",
+        "description": "Agent.database.database",
         "isExtraImport": true,
-        "detail": "sqlalchemy",
+        "detail": "Agent.database.database",
+        "documentation": {}
+    },
+    {
+        "label": "Base",
+        "importPath": "Agent.database.database",
+        "description": "Agent.database.database",
+        "isExtraImport": true,
+        "detail": "Agent.database.database",
+        "documentation": {}
+    },
+    {
+        "label": "Base",
+        "importPath": "Agent.database.database",
+        "description": "Agent.database.database",
+        "isExtraImport": true,
+        "detail": "Agent.database.database",
+        "documentation": {}
+    },
+    {
+        "label": "Base",
+        "importPath": "Agent.database.database",
+        "description": "Agent.database.database",
+        "isExtraImport": true,
+        "detail": "Agent.database.database",
+        "documentation": {}
+    },
+    {
+        "label": "engine",
+        "importPath": "Agent.database.database",
+        "description": "Agent.database.database",
+        "isExtraImport": true,
+        "detail": "Agent.database.database",
         "documentation": {}
     },
     {
@@ -381,6 +631,31 @@
         "description": "Agent.database.database",
         "isExtraImport": true,
         "detail": "Agent.database.database",
+        "documentation": {}
+    },
+    {
+        "label": "Base",
+        "importPath": "Agent.database.database",
+        "description": "Agent.database.database",
+        "isExtraImport": true,
+        "detail": "Agent.database.database",
+        "documentation": {}
+    },
+    {
+        "label": "engine",
+        "importPath": "Agent.database.database",
+        "description": "Agent.database.database",
+        "isExtraImport": true,
+        "detail": "Agent.database.database",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "models",
+        "description": "models",
+        "detail": "models",
         "documentation": {}
     },
     {
@@ -456,6 +731,14 @@
         "documentation": {}
     },
     {
+        "label": "asynccontextmanager",
+        "importPath": "contextlib",
+        "description": "contextlib",
+        "isExtraImport": true,
+        "detail": "contextlib",
+        "documentation": {}
+    },
+    {
         "label": "not_found_exception_handler",
         "importPath": "Agent.exceptions.error_handlers",
         "description": "Agent.exceptions.error_handlers",
@@ -509,6 +792,15 @@
         "description": "Agent.middleware.auth_middleware",
         "isExtraImport": true,
         "detail": "Agent.middleware.auth_middleware",
+        "documentation": {}
+    },
+    {
+        "label": "Agent.schemas.DAO",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "Agent.schemas.DAO",
+        "description": "Agent.schemas.DAO",
+        "detail": "Agent.schemas.DAO",
         "documentation": {}
     },
     {
@@ -566,15 +858,6 @@
         "documentation": {}
     },
     {
-        "label": "datetime",
-        "kind": 6,
-        "isExtraImport": true,
-        "importPath": "datetime",
-        "description": "datetime",
-        "detail": "datetime",
-        "documentation": {}
-    },
-    {
         "label": "requests",
         "kind": 6,
         "isExtraImport": true,
@@ -602,11 +885,47 @@
         "documentation": {}
     },
     {
+        "label": "create_database_if_not_exists",
+        "kind": 2,
+        "importPath": "Agent.database.database",
+        "description": "Agent.database.database",
+        "peekOfCode": "def create_database_if_not_exists():\n    try:\n        admin_engine = create_engine(admin_url, isolation_level='AUTOCOMMIT')\n        with admin_engine.connect() as conn:\n            result = conn.execute(text(f\"SELECT 1 FROM pg_database WHERE datname = '{db_name}';\"))\n            exists = result.scalar()\n            if not exists:\n                conn.execute(text(f'CREATE DATABASE \"{db_name}\"'))\n                print(f\"✅ Database '{db_name}' created.\")\n            else:",
+        "detail": "Agent.database.database",
+        "documentation": {}
+    },
+    {
         "label": "DATABASE_URL",
         "kind": 5,
         "importPath": "Agent.database.database",
         "description": "Agent.database.database",
-        "peekOfCode": "DATABASE_URL = \"postgresql+asyncpg://user:password@localhost/dbname\"\nengine = create_async_engine(DATABASE_URL, echo=True)\nSessionLocal = sessionmaker(bind=engine, class_=AsyncSession, expire_on_commit=False)\nBase = declarative_base()",
+        "peekOfCode": "DATABASE_URL = os.getenv(\"DB_URL\")\ndb_url = make_url(os.getenv(\"DB_URL\"))\ndb_name = db_url.database\nadmin_url = db_url.set(database=\"postgres\") \ndef create_database_if_not_exists():\n    try:\n        admin_engine = create_engine(admin_url, isolation_level='AUTOCOMMIT')\n        with admin_engine.connect() as conn:\n            result = conn.execute(text(f\"SELECT 1 FROM pg_database WHERE datname = '{db_name}';\"))\n            exists = result.scalar()",
+        "detail": "Agent.database.database",
+        "documentation": {}
+    },
+    {
+        "label": "db_url",
+        "kind": 5,
+        "importPath": "Agent.database.database",
+        "description": "Agent.database.database",
+        "peekOfCode": "db_url = make_url(os.getenv(\"DB_URL\"))\ndb_name = db_url.database\nadmin_url = db_url.set(database=\"postgres\") \ndef create_database_if_not_exists():\n    try:\n        admin_engine = create_engine(admin_url, isolation_level='AUTOCOMMIT')\n        with admin_engine.connect() as conn:\n            result = conn.execute(text(f\"SELECT 1 FROM pg_database WHERE datname = '{db_name}';\"))\n            exists = result.scalar()\n            if not exists:",
+        "detail": "Agent.database.database",
+        "documentation": {}
+    },
+    {
+        "label": "db_name",
+        "kind": 5,
+        "importPath": "Agent.database.database",
+        "description": "Agent.database.database",
+        "peekOfCode": "db_name = db_url.database\nadmin_url = db_url.set(database=\"postgres\") \ndef create_database_if_not_exists():\n    try:\n        admin_engine = create_engine(admin_url, isolation_level='AUTOCOMMIT')\n        with admin_engine.connect() as conn:\n            result = conn.execute(text(f\"SELECT 1 FROM pg_database WHERE datname = '{db_name}';\"))\n            exists = result.scalar()\n            if not exists:\n                conn.execute(text(f'CREATE DATABASE \"{db_name}\"'))",
+        "detail": "Agent.database.database",
+        "documentation": {}
+    },
+    {
+        "label": "admin_url",
+        "kind": 5,
+        "importPath": "Agent.database.database",
+        "description": "Agent.database.database",
+        "peekOfCode": "admin_url = db_url.set(database=\"postgres\") \ndef create_database_if_not_exists():\n    try:\n        admin_engine = create_engine(admin_url, isolation_level='AUTOCOMMIT')\n        with admin_engine.connect() as conn:\n            result = conn.execute(text(f\"SELECT 1 FROM pg_database WHERE datname = '{db_name}';\"))\n            exists = result.scalar()\n            if not exists:\n                conn.execute(text(f'CREATE DATABASE \"{db_name}\"'))\n                print(f\"✅ Database '{db_name}' created.\")",
         "detail": "Agent.database.database",
         "documentation": {}
     },
@@ -615,16 +934,16 @@
         "kind": 5,
         "importPath": "Agent.database.database",
         "description": "Agent.database.database",
-        "peekOfCode": "engine = create_async_engine(DATABASE_URL, echo=True)\nSessionLocal = sessionmaker(bind=engine, class_=AsyncSession, expire_on_commit=False)\nBase = declarative_base()",
+        "peekOfCode": "engine = create_engine(DATABASE_URL)\nSession = sessionmaker(bind=engine)\nBase = declarative_base()",
         "detail": "Agent.database.database",
         "documentation": {}
     },
     {
-        "label": "SessionLocal",
+        "label": "Session",
         "kind": 5,
         "importPath": "Agent.database.database",
         "description": "Agent.database.database",
-        "peekOfCode": "SessionLocal = sessionmaker(bind=engine, class_=AsyncSession, expire_on_commit=False)\nBase = declarative_base()",
+        "peekOfCode": "Session = sessionmaker(bind=engine)\nBase = declarative_base()",
         "detail": "Agent.database.database",
         "documentation": {}
     },
@@ -746,6 +1065,42 @@
         "documentation": {}
     },
     {
+        "label": "ConfigKeys",
+        "kind": 6,
+        "importPath": "Agent.schemas.DAO.configKeys.config_keys",
+        "description": "Agent.schemas.DAO.configKeys.config_keys",
+        "peekOfCode": "class ConfigKeys(Base):\n    __tablename__ = 'config_keys'\n    id = Column(Integer, primary_key=True)\n    config_key = Column(String, nullable=False)\n    config_key_value = Column(String, nullable=False)\n    created_at = Column(DateTime, default=datetime.datetime.utcnow)",
+        "detail": "Agent.schemas.DAO.configKeys.config_keys",
+        "documentation": {}
+    },
+    {
+        "label": "SessionsUserCommands",
+        "kind": 6,
+        "importPath": "Agent.schemas.DAO.userSessions.sessions_user_commands",
+        "description": "Agent.schemas.DAO.userSessions.sessions_user_commands",
+        "peekOfCode": "class SessionsUserCommands(Base):\n    __tablename__ = 'sessions_user_commands'\n    id = Column(Integer, primary_key=True)\n    user_id = Column(Integer, ForeignKey(\"user_details.id\"))\n    jsonb = Column(JSON)\n    created_at = Column(DateTime, default=datetime.datetime.utcnow)",
+        "detail": "Agent.schemas.DAO.userSessions.sessions_user_commands",
+        "documentation": {}
+    },
+    {
+        "label": "UserDetails",
+        "kind": 6,
+        "importPath": "Agent.schemas.DAO.usres.user",
+        "description": "Agent.schemas.DAO.usres.user",
+        "peekOfCode": "class UserDetails(Base):\n    __tablename__ = 'user_details'\n    id = Column(Integer, primary_key=True)\n    user_name = Column(String, nullable=False)\n    email_id = Column(String, nullable=False)\n    created_at = Column(DateTime, default=datetime.datetime.utcnow)",
+        "detail": "Agent.schemas.DAO.usres.user",
+        "documentation": {}
+    },
+    {
+        "label": "Workflow",
+        "kind": 6,
+        "importPath": "Agent.schemas.DAO.workFlow.work_flow_keys",
+        "description": "Agent.schemas.DAO.workFlow.work_flow_keys",
+        "peekOfCode": "class Workflow(Base):\n    __tablename__ = 'workflow_keys'\n    id = Column(Integer, primary_key=True)\n    workflow_key = Column(String, nullable=False, unique=True)\n    workflow_description = Column(String)\n    created_at = Column(DateTime, default=datetime.datetime.utcnow)",
+        "detail": "Agent.schemas.DAO.workFlow.work_flow_keys",
+        "documentation": {}
+    },
+    {
         "label": "User",
         "kind": 6,
         "importPath": "Agent.schemas.schemas",
@@ -768,7 +1123,7 @@
         "kind": 6,
         "importPath": "Agent.services.UserService.user_service",
         "description": "Agent.services.UserService.user_service",
-        "peekOfCode": "class UserService(IUserService):\n    def process_agent_request(self,userRequest : AgentRequest,userKey:str) -> dict:\n        # Example implementation logic\n        if(userKey != \"valid_user_key\"):\n            raise NotFoundError(\"User not found\")\n        response = {\n            \"status\": \"success\",\n            \"message\": \"Agent request processed\",\n            \"data\": {\n                \"agent_id\": 123,",
+        "peekOfCode": "class UserService(IUserService):\n    def process_agent_request(self,userRequest : AgentRequest,userKey:str) -> dict:\n        # Example implementation logic\n        if(userKey != \"valid_user_key\"):\n            raise NotFoundError(\"User not found\")\n        return process_Agent_Request(userRequest)",
         "detail": "Agent.services.UserService.user_service",
         "documentation": {}
     },
@@ -786,7 +1141,7 @@
         "kind": 2,
         "importPath": "Agent.services.genai_sevice",
         "description": "Agent.services.genai_sevice",
-        "peekOfCode": "def AskLLM(command: str, askLike: str):\n    try:\n        prompt = f\"\"\"\n            You are a smart assistant. Analyze the user command and answer strictly with True or False.\n            User Command: \"{command}\"\n            Question: \"{askLike}\"\n            Answer with only one word: True or False.\n            \"\"\"\n        response = client.models.generate_content(\n            model=\"gemini-2.0-flash\",",
+        "peekOfCode": "def AskLLM(command: str, askLike: str) -> bool:\n    try:\n        prompt = f\"\"\"\n            You are a smart assistant. Analyze the user command and answer strictly with True or False.\n            User Command: \"{command}\"\n            Question: \"{askLike}\"\n            Answer with only one word: True or False.\n            \"\"\"\n        response = client.models.generate_content(\n            model=\"gemini-2.0-flash\",",
         "detail": "Agent.services.genai_sevice",
         "documentation": {}
     },
@@ -831,7 +1186,16 @@
         "kind": 5,
         "importPath": "Agent.main",
         "description": "Agent.main",
-        "peekOfCode": "app = FastAPI()\n# Register routes\napp.include_router(agent.router)\napp.add_exception_handler(NotFoundError, not_found_exception_handler)\napp.add_exception_handler(BadRequestError, bad_request_exception_handler)\napp.add_exception_handler(InternalServerError, internal_server_error_handler)\napp.add_exception_handler(RequestValidationError, validation_exception_handler)\napp.add_exception_handler(UnauthorizedError, unauthorized_exception_handler)\napp.add_exception_handler(Exception, generic_exception_handler)\n# app.add_middleware(AuthMiddleware)",
+        "peekOfCode": "app = FastAPI()\n@asynccontextmanager\nasync def migrateDB(app: FastAPI):\n    try:\n        print(\"🚀 Lifespan startup: creating tables if needed.\")\n        Base.metadata.create_all(engine)\n        print(\"✅ Tables created or already exist.\")\n    except Exception as e:\n        print(\"❌ Error during DB migration:\", str(e))\n    yield ",
+        "detail": "Agent.main",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "Agent.main",
+        "description": "Agent.main",
+        "peekOfCode": "app = FastAPI(lifespan=migrateDB)\napp.include_router(agent.router)\napp.add_exception_handler(NotFoundError, not_found_exception_handler)\napp.add_exception_handler(BadRequestError, bad_request_exception_handler)\napp.add_exception_handler(InternalServerError, internal_server_error_handler)\napp.add_exception_handler(RequestValidationError, validation_exception_handler)\napp.add_exception_handler(UnauthorizedError, unauthorized_exception_handler)\napp.add_exception_handler(Exception, generic_exception_handler)\n# app.add_middleware(AuthMiddleware)\n@app.get(\"/\")",
         "detail": "Agent.main",
         "documentation": {}
     },

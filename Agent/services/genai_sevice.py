@@ -53,7 +53,7 @@ def process_Agent_Request(request_data: AgentRequest):
     except Exception as e:
         return {"error": str(e)}
     
-def AskLLM(command: str, askLike: str):
+def AskLLM(command: str, askLike: str) -> bool:
     try:
         prompt = f"""
             You are a smart assistant. Analyze the user command and answer strictly with True or False.

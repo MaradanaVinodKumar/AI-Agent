@@ -1,6 +1,7 @@
 from Agent.services.UserService.i_user_service import IUserService
 from Agent.models.models import AgentRequest
 from Agent.exceptions.exceptions import NotFoundError
+from Agent.services.genai_sevice import process_Agent_Request
 
 
 
@@ -11,14 +12,4 @@ class UserService(IUserService):
 
         if(userKey != "valid_user_key"):
             raise NotFoundError("User not found")
-        
-
-        response = {
-            "status": "success",
-            "message": "Agent request processed",
-            "data": {
-                "agent_id": 123,
-                "permissions": ["read", "write"]
-            }
-        }
-        return response
+        return process_Agent_Request(userRequest)
