@@ -9,6 +9,11 @@ router = APIRouter(prefix="/agent", tags=["agent"])
 def _UserServices() -> UserService:
     return UserService()
 
+@router.post("/login")
+def handle_agent_request(UserKey: str):
+    response = _UserServices().GetUserToken(UserKey)
+    return response
+
 
 @router.post("/")
 def handle_agent_request(UserKey: str = Query(..., description="API key of the user"),request_data: AgentRequest=Body(...)):

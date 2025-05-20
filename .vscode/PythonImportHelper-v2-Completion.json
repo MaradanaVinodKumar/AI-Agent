@@ -241,6 +241,14 @@
         "documentation": {}
     },
     {
+        "label": "load_dotenv",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
         "label": "Request",
         "importPath": "fastapi",
         "description": "fastapi",
@@ -321,10 +329,11 @@
         "documentation": {}
     },
     {
-        "label": "JSONResponse",
+        "label": "fastapi.responses",
+        "kind": 6,
+        "isExtraImport": true,
         "importPath": "fastapi.responses",
         "description": "fastapi.responses",
-        "isExtraImport": true,
         "detail": "fastapi.responses",
         "documentation": {}
     },
@@ -425,7 +434,7 @@
         "documentation": {}
     },
     {
-        "label": "UnauthorizedError",
+        "label": "BadRequestError",
         "importPath": "Agent.exceptions.exceptions",
         "description": "Agent.exceptions.exceptions",
         "isExtraImport": true,
@@ -473,6 +482,128 @@
         "documentation": {}
     },
     {
+        "label": "ABC",
+        "importPath": "abc",
+        "description": "abc",
+        "isExtraImport": true,
+        "detail": "abc",
+        "documentation": {}
+    },
+    {
+        "label": "abstractmethod",
+        "importPath": "abc",
+        "description": "abc",
+        "isExtraImport": true,
+        "detail": "abc",
+        "documentation": {}
+    },
+    {
+        "label": "ABC",
+        "importPath": "abc",
+        "description": "abc",
+        "isExtraImport": true,
+        "detail": "abc",
+        "documentation": {}
+    },
+    {
+        "label": "abstractmethod",
+        "importPath": "abc",
+        "description": "abc",
+        "isExtraImport": true,
+        "detail": "abc",
+        "documentation": {}
+    },
+    {
+        "label": "ABC",
+        "importPath": "abc",
+        "description": "abc",
+        "isExtraImport": true,
+        "detail": "abc",
+        "documentation": {}
+    },
+    {
+        "label": "abstractmethod",
+        "importPath": "abc",
+        "description": "abc",
+        "isExtraImport": true,
+        "detail": "abc",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "datetime",
+        "description": "datetime",
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "timedelta",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "timedelta",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "jwt",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "jwt",
+        "description": "jwt",
+        "detail": "jwt",
+        "documentation": {}
+    },
+    {
+        "label": "JWTServiceInterface",
+        "importPath": "Agent.middleware.JwtServices.i_jwt_service",
+        "description": "Agent.middleware.JwtServices.i_jwt_service",
+        "isExtraImport": true,
+        "detail": "Agent.middleware.JwtServices.i_jwt_service",
+        "documentation": {}
+    },
+    {
         "label": "BaseHTTPMiddleware",
         "importPath": "starlette.middleware.base",
         "description": "starlette.middleware.base",
@@ -486,6 +617,22 @@
         "description": "starlette.requests",
         "isExtraImport": true,
         "detail": "starlette.requests",
+        "documentation": {}
+    },
+    {
+        "label": "JWTService",
+        "importPath": "Agent.middleware.JwtServices.jwt_service",
+        "description": "Agent.middleware.JwtServices.jwt_service",
+        "isExtraImport": true,
+        "detail": "Agent.middleware.JwtServices.jwt_service",
+        "documentation": {}
+    },
+    {
+        "label": "JSONResponse",
+        "importPath": "starlette.responses",
+        "description": "starlette.responses",
+        "isExtraImport": true,
+        "detail": "starlette.responses",
         "documentation": {}
     },
     {
@@ -545,28 +692,11 @@
         "documentation": {}
     },
     {
-        "label": "Optional",
-        "importPath": "typing",
-        "description": "typing",
-        "isExtraImport": true,
-        "detail": "typing",
-        "documentation": {}
-    },
-    {
         "label": "UserService",
         "importPath": "Agent.services.UserService.user_service",
         "description": "Agent.services.UserService.user_service",
         "isExtraImport": true,
         "detail": "Agent.services.UserService.user_service",
-        "documentation": {}
-    },
-    {
-        "label": "datetime",
-        "kind": 6,
-        "isExtraImport": true,
-        "importPath": "datetime",
-        "description": "datetime",
-        "detail": "datetime",
         "documentation": {}
     },
     {
@@ -659,43 +789,19 @@
         "documentation": {}
     },
     {
-        "label": "ABC",
-        "importPath": "abc",
-        "description": "abc",
-        "isExtraImport": true,
-        "detail": "abc",
-        "documentation": {}
-    },
-    {
-        "label": "abstractmethod",
-        "importPath": "abc",
-        "description": "abc",
-        "isExtraImport": true,
-        "detail": "abc",
-        "documentation": {}
-    },
-    {
-        "label": "ABC",
-        "importPath": "abc",
-        "description": "abc",
-        "isExtraImport": true,
-        "detail": "abc",
-        "documentation": {}
-    },
-    {
-        "label": "abstractmethod",
-        "importPath": "abc",
-        "description": "abc",
-        "isExtraImport": true,
-        "detail": "abc",
-        "documentation": {}
-    },
-    {
         "label": "IUserService",
         "importPath": "Agent.services.UserService.i_user_service",
         "description": "Agent.services.UserService.i_user_service",
         "isExtraImport": true,
         "detail": "Agent.services.UserService.i_user_service",
+        "documentation": {}
+    },
+    {
+        "label": "ValidationUtils",
+        "importPath": "Agent.Utils.Validations.validations",
+        "description": "Agent.Utils.Validations.validations",
+        "isExtraImport": true,
+        "detail": "Agent.Utils.Validations.validations",
         "documentation": {}
     },
     {
@@ -720,6 +826,15 @@
         "description": "Agent.schemas.schemas",
         "isExtraImport": true,
         "detail": "Agent.schemas.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "re",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "re",
+        "description": "re",
+        "detail": "re",
         "documentation": {}
     },
     {
@@ -837,15 +952,6 @@
         "importPath": "time",
         "description": "time",
         "detail": "time",
-        "documentation": {}
-    },
-    {
-        "label": "re",
-        "kind": 6,
-        "isExtraImport": true,
-        "importPath": "re",
-        "description": "re",
-        "detail": "re",
         "documentation": {}
     },
     {
@@ -993,20 +1099,56 @@
         "documentation": {}
     },
     {
+        "label": "JWTServiceInterface",
+        "kind": 6,
+        "importPath": "Agent.middleware.JwtServices.i_jwt_service",
+        "description": "Agent.middleware.JwtServices.i_jwt_service",
+        "peekOfCode": "class JWTServiceInterface(ABC):\n    @abstractmethod\n    def create_access_token(self, email: str, expires_delta: Optional[timedelta] = None) -> str:\n        pass\n    @abstractmethod\n    def decode_access_token(self, token: str) -> str:\n        pass",
+        "detail": "Agent.middleware.JwtServices.i_jwt_service",
+        "documentation": {}
+    },
+    {
+        "label": "JWTService",
+        "kind": 6,
+        "importPath": "Agent.middleware.JwtServices.jwt_service",
+        "description": "Agent.middleware.JwtServices.jwt_service",
+        "peekOfCode": "class JWTService(JWTServiceInterface):\n    def create_access_token(self, email: str, expires_delta: Optional[timedelta] = None) -> str:\n        to_encode = {\"sub\": email}\n        expire = datetime.utcnow() + (expires_delta or timedelta(minutes=ACCESS_TOKEN_EXPIRE_MINUTES))\n        to_encode.update({\"exp\": expire})\n        return jwt.encode(to_encode, SECRET_KEY, algorithm=ALGORITHM)\n    def decode_access_token(self, token: str) -> str:\n        try:\n            payload = jwt.decode(token, SECRET_KEY, algorithms=[ALGORITHM])\n            email = payload.get(\"sub\")",
+        "detail": "Agent.middleware.JwtServices.jwt_service",
+        "documentation": {}
+    },
+    {
+        "label": "SECRET_KEY",
+        "kind": 5,
+        "importPath": "Agent.middleware.JwtServices.jwt_service",
+        "description": "Agent.middleware.JwtServices.jwt_service",
+        "peekOfCode": "SECRET_KEY = os.getenv(\"SECRET_KEY\")\nALGORITHM = os.getenv(\"ALGORITHM\", \"HS256\")\nACCESS_TOKEN_EXPIRE_MINUTES = int(os.getenv(\"ACCESS_TOKEN_EXPIRE_MINUTES\"))\nclass JWTService(JWTServiceInterface):\n    def create_access_token(self, email: str, expires_delta: Optional[timedelta] = None) -> str:\n        to_encode = {\"sub\": email}\n        expire = datetime.utcnow() + (expires_delta or timedelta(minutes=ACCESS_TOKEN_EXPIRE_MINUTES))\n        to_encode.update({\"exp\": expire})\n        return jwt.encode(to_encode, SECRET_KEY, algorithm=ALGORITHM)\n    def decode_access_token(self, token: str) -> str:",
+        "detail": "Agent.middleware.JwtServices.jwt_service",
+        "documentation": {}
+    },
+    {
+        "label": "ALGORITHM",
+        "kind": 5,
+        "importPath": "Agent.middleware.JwtServices.jwt_service",
+        "description": "Agent.middleware.JwtServices.jwt_service",
+        "peekOfCode": "ALGORITHM = os.getenv(\"ALGORITHM\", \"HS256\")\nACCESS_TOKEN_EXPIRE_MINUTES = int(os.getenv(\"ACCESS_TOKEN_EXPIRE_MINUTES\"))\nclass JWTService(JWTServiceInterface):\n    def create_access_token(self, email: str, expires_delta: Optional[timedelta] = None) -> str:\n        to_encode = {\"sub\": email}\n        expire = datetime.utcnow() + (expires_delta or timedelta(minutes=ACCESS_TOKEN_EXPIRE_MINUTES))\n        to_encode.update({\"exp\": expire})\n        return jwt.encode(to_encode, SECRET_KEY, algorithm=ALGORITHM)\n    def decode_access_token(self, token: str) -> str:\n        try:",
+        "detail": "Agent.middleware.JwtServices.jwt_service",
+        "documentation": {}
+    },
+    {
+        "label": "ACCESS_TOKEN_EXPIRE_MINUTES",
+        "kind": 5,
+        "importPath": "Agent.middleware.JwtServices.jwt_service",
+        "description": "Agent.middleware.JwtServices.jwt_service",
+        "peekOfCode": "ACCESS_TOKEN_EXPIRE_MINUTES = int(os.getenv(\"ACCESS_TOKEN_EXPIRE_MINUTES\"))\nclass JWTService(JWTServiceInterface):\n    def create_access_token(self, email: str, expires_delta: Optional[timedelta] = None) -> str:\n        to_encode = {\"sub\": email}\n        expire = datetime.utcnow() + (expires_delta or timedelta(minutes=ACCESS_TOKEN_EXPIRE_MINUTES))\n        to_encode.update({\"exp\": expire})\n        return jwt.encode(to_encode, SECRET_KEY, algorithm=ALGORITHM)\n    def decode_access_token(self, token: str) -> str:\n        try:\n            payload = jwt.decode(token, SECRET_KEY, algorithms=[ALGORITHM])",
+        "detail": "Agent.middleware.JwtServices.jwt_service",
+        "documentation": {}
+    },
+    {
         "label": "AuthMiddleware",
         "kind": 6,
         "importPath": "Agent.middleware.auth_middleware",
         "description": "Agent.middleware.auth_middleware",
-        "peekOfCode": "class AuthMiddleware(BaseHTTPMiddleware):\n    async def dispatch(self, request: Request, call_next):\n        # auth_header = request.headers.get(\"Authorization\")\n        # if not auth_header or not auth_header.startswith(\"Bearer \"):\n        raise UnauthorizedError(\"\")\n            # raise UnauthorizedError(\"Missing or invalid Authorization header\")\n        # token = auth_header.removeprefix(\"Bearer \").strip()\n        # if token != \"your-valid-token\":\n        #     raise UnauthorizedError(\"Invalid token\")\n        return await call_next(request)",
-        "detail": "Agent.middleware.auth_middleware",
-        "documentation": {}
-    },
-    {
-        "label": "VALID_TOKENS",
-        "kind": 5,
-        "importPath": "Agent.middleware.auth_middleware",
-        "description": "Agent.middleware.auth_middleware",
-        "peekOfCode": "VALID_TOKENS = {\"your-valid-token-here\"} \nclass AuthMiddleware(BaseHTTPMiddleware):\n    async def dispatch(self, request: Request, call_next):\n        # auth_header = request.headers.get(\"Authorization\")\n        # if not auth_header or not auth_header.startswith(\"Bearer \"):\n        raise UnauthorizedError(\"\")\n            # raise UnauthorizedError(\"Missing or invalid Authorization header\")\n        # token = auth_header.removeprefix(\"Bearer \").strip()\n        # if token != \"your-valid-token\":\n        #     raise UnauthorizedError(\"Invalid token\")",
+        "peekOfCode": "class AuthMiddleware(BaseHTTPMiddleware):\n    def __init__(self, app):\n        super().__init__(app)\n        self.jwt_service = JWTService()\n    async def dispatch(self, request: Request, call_next):\n        # Allow unauthenticated access to public routes\n        public_routes = [\"/\", \"/login\"]\n        if request.url.path in public_routes:\n            return await call_next(request)\n        auth_header = request.headers.get(\"Authorization\")",
         "detail": "Agent.middleware.auth_middleware",
         "documentation": {}
     },
@@ -1042,6 +1184,15 @@
         "kind": 2,
         "importPath": "Agent.routes.agent",
         "description": "Agent.routes.agent",
+        "peekOfCode": "def handle_agent_request(UserKey: str):\n    response = _UserServices().GetUserToken(UserKey)\n    return response\n@router.post(\"/\")\ndef handle_agent_request(UserKey: str = Query(..., description=\"API key of the user\"),request_data: AgentRequest=Body(...)):\n    response = _UserServices().process_agent_request(request_data,UserKey)\n    return response\n@router.post(\"/process/{agent_id}\")\ndef handle_agent_request(\n    # Path parameter",
+        "detail": "Agent.routes.agent",
+        "documentation": {}
+    },
+    {
+        "label": "handle_agent_request",
+        "kind": 2,
+        "importPath": "Agent.routes.agent",
+        "description": "Agent.routes.agent",
         "peekOfCode": "def handle_agent_request(UserKey: str = Query(..., description=\"API key of the user\"),request_data: AgentRequest=Body(...)):\n    response = _UserServices().process_agent_request(request_data,UserKey)\n    return response\n@router.post(\"/process/{agent_id}\")\ndef handle_agent_request(\n    # Path parameter\n    agent_id: int = Path(..., description=\"Agent ID from the URL path\"),\n    # Query parameter\n    user_key: str = Query(..., description=\"User API key\"),\n    # Header",
         "detail": "Agent.routes.agent",
         "documentation": {}
@@ -1060,7 +1211,7 @@
         "kind": 5,
         "importPath": "Agent.routes.agent",
         "description": "Agent.routes.agent",
-        "peekOfCode": "router = APIRouter(prefix=\"/agent\", tags=[\"agent\"])\ndef _UserServices() -> UserService:\n    return UserService()\n@router.post(\"/\")\ndef handle_agent_request(UserKey: str = Query(..., description=\"API key of the user\"),request_data: AgentRequest=Body(...)):\n    response = _UserServices().process_agent_request(request_data,UserKey)\n    return response\n@router.post(\"/process/{agent_id}\")\ndef handle_agent_request(\n    # Path parameter",
+        "peekOfCode": "router = APIRouter(prefix=\"/agent\", tags=[\"agent\"])\ndef _UserServices() -> UserService:\n    return UserService()\n@router.post(\"/login\")\ndef handle_agent_request(UserKey: str):\n    response = _UserServices().GetUserToken(UserKey)\n    return response\n@router.post(\"/\")\ndef handle_agent_request(UserKey: str = Query(..., description=\"API key of the user\"),request_data: AgentRequest=Body(...)):\n    response = _UserServices().process_agent_request(request_data,UserKey)",
         "detail": "Agent.routes.agent",
         "documentation": {}
     },
@@ -1114,7 +1265,7 @@
         "kind": 6,
         "importPath": "Agent.services.UserService.i_user_service",
         "description": "Agent.services.UserService.i_user_service",
-        "peekOfCode": "class IUserService(ABC):\n    @abstractmethod\n    def process_agent_request(self,userRequest : AgentRequest,userKey:str) -> dict:\n        pass",
+        "peekOfCode": "class IUserService(ABC):\n    @abstractmethod\n    def process_agent_request(self,userRequest : AgentRequest,userKey:str) -> dict:\n        pass\n    @abstractmethod\n    def get_user_token(self,UserEmail : str) -> str:\n        pass",
         "detail": "Agent.services.UserService.i_user_service",
         "documentation": {}
     },
@@ -1123,7 +1274,7 @@
         "kind": 6,
         "importPath": "Agent.services.UserService.user_service",
         "description": "Agent.services.UserService.user_service",
-        "peekOfCode": "class UserService(IUserService):\n    def process_agent_request(self,userRequest : AgentRequest,userKey:str) -> dict:\n        # Example implementation logic\n        if(userKey != \"valid_user_key\"):\n            raise NotFoundError(\"User not found\")\n        return process_Agent_Request(userRequest)",
+        "peekOfCode": "class UserService(IUserService):\n    def process_agent_request(self,userRequest : AgentRequest,userKey:str) -> dict:\n        # Example implementation logic\n        if(userKey != \"valid_user_key\"):\n            raise NotFoundError(\"User not found\")\n        return process_Agent_Request(userRequest)\n    def get_user_token(self,UserEmail : str) -> str:\n         if ValidationUtils.is_valid_email(UserEmail) :\n             raise BadRequestError(\"Not a valid email.\")\n         # need hit the db and fetch the user email details",
         "detail": "Agent.services.UserService.user_service",
         "documentation": {}
     },
@@ -1173,6 +1324,15 @@
         "documentation": {}
     },
     {
+        "label": "ValidationUtils",
+        "kind": 6,
+        "importPath": "Agent.Utils.Validations.validations",
+        "description": "Agent.Utils.Validations.validations",
+        "peekOfCode": "class ValidationUtils:\n    @staticmethod\n    def is_valid_email(email: str) -> bool:\n        \"\"\"\n        Validates an email address.\n        \"\"\"\n        email_regex = r\"(^[a-zA-Z0-9_.+-]+@[a-zA-Z0-9-]+\\.[a-zA-Z0-9-.]+$)\"\n        return re.match(email_regex, email) is not None\n    @staticmethod\n    def is_valid_password(password: str) -> bool:",
+        "detail": "Agent.Utils.Validations.validations",
+        "documentation": {}
+    },
+    {
         "label": "read_root",
         "kind": 2,
         "importPath": "Agent.main",
@@ -1186,7 +1346,7 @@
         "kind": 5,
         "importPath": "Agent.main",
         "description": "Agent.main",
-        "peekOfCode": "app = FastAPI()\n@asynccontextmanager\nasync def migrateDB(app: FastAPI):\n    try:\n        print(\"🚀 Lifespan startup: creating tables if needed.\")\n        Base.metadata.create_all(engine)\n        print(\"✅ Tables created or already exist.\")\n    except Exception as e:\n        print(\"❌ Error during DB migration:\", str(e))\n    yield ",
+        "peekOfCode": "app = FastAPI()\n@asynccontextmanager\nasync def migrateDB(app: FastAPI):\n    try:\n        print(\"🚀 Lifespan startup: creating tables if needed.\")\n        Base.metadata.create_all(engine)\n        print(\"✅ DB migration created or already exist.\")\n    except Exception as e:\n        print(\"❌ Error during DB migration:\", str(e))\n    yield ",
         "detail": "Agent.main",
         "documentation": {}
     },
@@ -1195,7 +1355,7 @@
         "kind": 5,
         "importPath": "Agent.main",
         "description": "Agent.main",
-        "peekOfCode": "app = FastAPI(lifespan=migrateDB)\napp.include_router(agent.router)\napp.add_exception_handler(NotFoundError, not_found_exception_handler)\napp.add_exception_handler(BadRequestError, bad_request_exception_handler)\napp.add_exception_handler(InternalServerError, internal_server_error_handler)\napp.add_exception_handler(RequestValidationError, validation_exception_handler)\napp.add_exception_handler(UnauthorizedError, unauthorized_exception_handler)\napp.add_exception_handler(Exception, generic_exception_handler)\n# app.add_middleware(AuthMiddleware)\n@app.get(\"/\")",
+        "peekOfCode": "app = FastAPI(lifespan=migrateDB)\napp.include_router(agent.router)\napp.add_exception_handler(NotFoundError, not_found_exception_handler)\napp.add_exception_handler(BadRequestError, bad_request_exception_handler)\napp.add_exception_handler(InternalServerError, internal_server_error_handler)\napp.add_exception_handler(RequestValidationError, validation_exception_handler)\napp.add_exception_handler(UnauthorizedError, unauthorized_exception_handler)\napp.add_exception_handler(Exception, generic_exception_handler)\napp.add_middleware(AuthMiddleware)\n@app.get(\"/\")",
         "detail": "Agent.main",
         "documentation": {}
     },
@@ -1258,7 +1418,7 @@
         "kind": 6,
         "importPath": "oops",
         "description": "oops",
-        "peekOfCode": "class Cat:\n    def sound(self):\n        print(\"Meow\")\nclass AnotherDog:\n    def sound(self):\n        print(\"Bark\")\ndef make_sound(animal):\n    animal.sound()  # Works for any object with a sound() method\n# Example usage of polymorphism\ncat = Cat()",
+        "peekOfCode": "class Cat:\n    def sound(self):\n        print(\"Meow\")\nclass AnotherDog:\n    def sound(self):\n        print(\"Bark\")\ndef make_sound(anthorDag):\n    anthorDag.sound()  # Works for any object with a sound() method\n# Example usage of polymorphism\ncat = Cat()",
         "detail": "oops",
         "documentation": {}
     },
@@ -1267,7 +1427,7 @@
         "kind": 6,
         "importPath": "oops",
         "description": "oops",
-        "peekOfCode": "class AnotherDog:\n    def sound(self):\n        print(\"Bark\")\ndef make_sound(animal):\n    animal.sound()  # Works for any object with a sound() method\n# Example usage of polymorphism\ncat = Cat()\ndog = AnotherDog()\nex=make_sound(cat).sound()  # Output: Meow \nex2=make_sound(dog).sound()  # Output: Bark",
+        "peekOfCode": "class AnotherDog:\n    def sound(self):\n        print(\"Bark\")\ndef make_sound(anthorDag):\n    anthorDag.sound()  # Works for any object with a sound() method\n# Example usage of polymorphism\ncat = Cat()\ndog = AnotherDog()\nex=make_sound(Cat())  # Output: Meow \nex2=make_sound(AnotherDog()) # Output: Bark",
         "detail": "oops",
         "documentation": {}
     },
@@ -1294,7 +1454,7 @@
         "kind": 2,
         "importPath": "oops",
         "description": "oops",
-        "peekOfCode": "def make_sound(animal):\n    animal.sound()  # Works for any object with a sound() method\n# Example usage of polymorphism\ncat = Cat()\ndog = AnotherDog()\nex=make_sound(cat).sound()  # Output: Meow \nex2=make_sound(dog).sound()  # Output: Bark\n# 5. ABSTRACTION\n# Abstraction hides complex implementation and shows only essential features.\nclass Shape(ABC):  # Abstract Base Class",
+        "peekOfCode": "def make_sound(anthorDag):\n    anthorDag.sound()  # Works for any object with a sound() method\n# Example usage of polymorphism\ncat = Cat()\ndog = AnotherDog()\nex=make_sound(Cat())  # Output: Meow \nex2=make_sound(AnotherDog()) # Output: Bark\n# 5. ABSTRACTION\n# Abstraction hides complex implementation and shows only essential features.\nclass Shape(ABC):  # Abstract Base Class",
         "detail": "oops",
         "documentation": {}
     },
@@ -1303,7 +1463,7 @@
         "kind": 5,
         "importPath": "oops",
         "description": "oops",
-        "peekOfCode": "cat = Cat()\ndog = AnotherDog()\nex=make_sound(cat).sound()  # Output: Meow \nex2=make_sound(dog).sound()  # Output: Bark\n# 5. ABSTRACTION\n# Abstraction hides complex implementation and shows only essential features.\nclass Shape(ABC):  # Abstract Base Class\n    @abstractmethod\n    def area(self):\n        pass  # no implementation here",
+        "peekOfCode": "cat = Cat()\ndog = AnotherDog()\nex=make_sound(Cat())  # Output: Meow \nex2=make_sound(AnotherDog()) # Output: Bark\n# 5. ABSTRACTION\n# Abstraction hides complex implementation and shows only essential features.\nclass Shape(ABC):  # Abstract Base Class\n    @abstractmethod\n    def area(self):\n        pass  # no implementation here",
         "detail": "oops",
         "documentation": {}
     },
@@ -1312,7 +1472,7 @@
         "kind": 5,
         "importPath": "oops",
         "description": "oops",
-        "peekOfCode": "dog = AnotherDog()\nex=make_sound(cat).sound()  # Output: Meow \nex2=make_sound(dog).sound()  # Output: Bark\n# 5. ABSTRACTION\n# Abstraction hides complex implementation and shows only essential features.\nclass Shape(ABC):  # Abstract Base Class\n    @abstractmethod\n    def area(self):\n        pass  # no implementation here\nclass Circle(Shape):",
+        "peekOfCode": "dog = AnotherDog()\nex=make_sound(Cat())  # Output: Meow \nex2=make_sound(AnotherDog()) # Output: Bark\n# 5. ABSTRACTION\n# Abstraction hides complex implementation and shows only essential features.\nclass Shape(ABC):  # Abstract Base Class\n    @abstractmethod\n    def area(self):\n        pass  # no implementation here\nclass Circle(Shape):",
         "detail": "oops",
         "documentation": {}
     },

@@ -42,15 +42,15 @@ class AnotherDog:
     def sound(self):
         print("Bark")
 
-def make_sound(animal):
-    animal.sound()  # Works for any object with a sound() method
+def make_sound(anthorDag):
+    anthorDag.sound()  # Works for any object with a sound() method
 
 # Example usage of polymorphism
 cat = Cat()
 dog = AnotherDog()
 
-ex=make_sound(cat).sound()  # Output: Meow 
-ex2=make_sound(dog).sound()  # Output: Bark
+ex=make_sound(Cat())  # Output: Meow 
+ex2=make_sound(AnotherDog()) # Output: Bark
 
 
 # 5. ABSTRACTION

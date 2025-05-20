@@ -17,7 +17,7 @@ async def migrateDB(app: FastAPI):
     try:
         print("🚀 Lifespan startup: creating tables if needed.")
         Base.metadata.create_all(engine)
-        print("✅ Tables created or already exist.")
+        print("✅ DB migration created or already exist.")
     except Exception as e:
         print("❌ Error during DB migration:", str(e))
     yield 
@@ -35,7 +35,7 @@ app.add_exception_handler(RequestValidationError, validation_exception_handler)
 app.add_exception_handler(UnauthorizedError, unauthorized_exception_handler)
 app.add_exception_handler(Exception, generic_exception_handler)
 
-# app.add_middleware(AuthMiddleware)
+app.add_middleware(AuthMiddleware)
 
 @app.get("/")
 def read_root():

@@ -29,3 +29,5 @@ httpx
 
 python-multipart
 google-genai
+
+PyJWT
